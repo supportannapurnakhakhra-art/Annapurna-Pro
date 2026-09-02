@@ -1,0 +1,8 @@
+User-agent: *
+Allow: /
+
+Disallow: /cgi-bin/
+Disallow: /admin
+Disallow: /cart
+
+Sitemap: https://annapurna.org.in/sitemap.xml

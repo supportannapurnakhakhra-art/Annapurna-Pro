@@ -1,0 +1,2414 @@
+{
+  "success": true,
+  "data": [
+    {
+      "id": "88",
+      "title": "Today's Offer Lasan Khakhra Oil | लसन खाखरा",
+      "handle": "todays-offer-lasan-khakhra",
+      "description": "<p>For garlic lovers, our Lasan Khakhra offers a bold flavour experience. Aromatic roasted garlic adds depth to the crisp wheat base, making it a perfect companion for spicy dips, pickles or tea.</p>\n<p>Strong, garlicky and irresistibly flavourful.</p>\n<p><br></p>\n<div class=\"khakhra-use-cases\">\n<div style=\"font-size: 20px; font-weight: 600; margin-bottom: 12px;\">How People Enjoy Lasan Khakhra Every Day</div>\n<ul style=\"list-style: none; padding-left: 0; margin: 0;\">\n<li style=\"display: flex; gap: 8px; margin-bottom: 8px;\">\n<span>•</span> <span><strong>Healthy Lasan Khakhra Pizza</strong> – Crisp garlic-infused base adds a bold, flavorful twist to your pizza toppings.</span>\n</li>\n<li style=\"display: flex; gap: 8px; margin-bottom: 8px;\">\n<span>•</span> <span><strong>Lasan Khakhra Made for Every Chai Break</strong> – Light, aromatic, and perfect to enjoy with your daily chai.</span>\n</li>\n<li style=\"display: flex; gap: 8px; margin-bottom: 8px;\">\n<span>•</span> <span><strong>Lasan Khakhra with Every Sabzi</strong> – Pairs wonderfully with vegetable curries, adding a subtle garlic crunch.</span>\n</li>\n<li style=\"display: flex; gap: 8px; margin-bottom: 8px;\">\n<span>•</span> <span><strong>Lasan Khakhra: The Classic Dal Pakwan Twist</strong> – Adds a flavorful garlic crunch to your traditional dal pakwan.</span>\n</li>\n<li style=\"display: flex; gap: 8px; margin-bottom: 8px;\">\n<span>•</span> <span><strong>Enjoy Lasan Khakhra with Hot Soup</strong> – Crisp, aromatic, and pairs perfectly with warm soups.</span>\n</li>\n<li style=\"display: flex; gap: 8px; margin-bottom: 8px;\">\n<span>•</span> <span><strong>Healthy Crunch with Lasan Khakhra</strong> – Wholesome, garlicky, and crunchy for a nutritious snack anytime.</span>\n</li>\n</ul>\n</div>",
+      "variant_ids": [
+        220
+      ],
+      "image_url": "https://megaecomm.megascale.co.in/backend/media/1/8f7ed00a422e64e7862243d50c4f27c5.webp",
+      "availableForSale": false,
+      "priceRange": {
+        "minVariantPrice": {
+          "amount": "70.00",
+          "currencyCode": "INR"
+        },
+        "maxVariantPrice": {
+          "amount": "70.00",
+          "currencyCode": "INR"
+        }
+      },
+      "compareAtPrice": null,
+      "images": [
+        {
+          "url": "https://megaecomm.megascale.co.in/backend/media/1/8f7ed00a422e64e7862243d50c4f27c5.webp"
+        },
+        {
+          "url": "https://megaecomm.megascale.co.in/backend/media/1/846639e09ed2bddd1ad46e7ff8918aa0.webp"
+        },
+        {
+          "url": "https://megaecomm.megascale.co.in/backend/media/1/83d43da61bfd228dc2de6e1a999854f6.webp"
+        },
+        {
+          "url": "https://megaecomm.megascale.co.in/backend/media/1/37fc28cb08b0f448ac6d61ca7bed6586.webp"
+        },
+        {
+          "url": "https://megaecomm.megascale.co.in/backend/media/1/d88c87b34067c2e6ee03323e3e7e8a1b.webp"
+        },
+        {
+          "url": "https://megaecomm.megascale.co.in/backend/media/1/6c2a8d7310a953ab53d5d4c612b1363a.webp"
+        },
+        {
+          "url": "https://megaecomm.megascale.co.in/backend/media/1/3dfa8354adcfe5d6e999e22de4b675f7.webp"
+        },
+        {
+          "url": "https://megaecomm.megascale.co.in/backend/media/1/f2e2646921b2505c576ccbdeec02b214.webp"
+        },
+        {
+          "url": "https://megaecomm.megascale.co.in/backend/media/1/406ae199d1d731ff01d397f7936648e5.webp"
+        },
+        {
+          "url": "https://megaecomm.megascale.co.in/backend/media/1/09149ede6e53d42d753f03f190dacf4f.webp"
+        },
+        {
+          "url": "https://megaecomm.megascale.co.in/backend/media/1/83138dfc6005d6504a3a271dbbaa0947.webp"
+        }
+      ],
+      "avg_rating": 0,
+      "total_reviews": 0,
+      "inventory_quantity": 0,
+      "variants": [
+        {
+          "id": 220,
+          "title": "200 gm / 7-8 pcs",
+          "availableForSale": false,
+          "sku": "KH-LASAN-0011",
+          "price": {
+            "amount": 70,
+            "currencyCode": "INR"
+          },
+          "compareAtPrice": {
+            "amount": 120,
+            "currencyCode": "INR"
+          },
+          "selectedOptions": [
+            {
+              "name": "Weight",
+              "value": "200 gm / 7-8 pcs"
+            }
+          ],
+          "image": null,
+          "weight": 200,
+          "weightUnit": "G",
+          "inventoryQuantity": 0
+        }
+      ],
+      "options": [
+        {
+          "name": "Weight",
+          "values": [
+            "200 gm / 7-8 pcs"
+          ]
+        }
+      ],
+      "created_at": "2026-05-19T11:01:13.483Z",
+      "updated_at": "2026-05-19T11:01:13.483Z"
+    },
+    {
+      "id": "87",
+      "title": "Today's Offer Kurkure Khakhra | कुरकुरे खाखरा | Made With Pure Ghee",
+      "handle": "todays-offer-kurkure-khakhra-made-with-pure-ghee",
+      "description": "<p>Discover the quintessential crunch with our Kurkure Khakhra, expertly prepared with pure ghee for an uncompromising snacking experience. This traditional delicacy showcases paper-thin, ultra-crispy layers that shatter delightfully on the palate, enhanced by a carefully balanced blend of savory spices and aromatic seasonings. The pure ghee foundation imparts a luxurious richness while preserving the khakhra's celebrated lightness and digestibility. Each piece delivers consistent texture and authentic flavor, making it an exemplary choice for those who demand excellence in their everyday indulgences. Perfect for tea-time enjoyment or as a sophisticated accompaniment to meals, this khakhra represents the pinnacle of traditional snacking craftsmanship.</p>\n<p>A playful, super-crisp variation...</p>\n<p><br></p>\n<div class=\"khakhra-use-cases\">\n<div style=\"font-size: 20px; font-weight: 600; margin-bottom: 12px;\">How People Enjoy Kurkure Khakhra Every Day</div>\n<ul style=\"list-style: none; padding-left: 0; margin: 0;\">\n<li style=\"display: flex; gap: 8px; margin-bottom: 8px;\">\n<span>•</span> <span><strong>Healthy Kurkure Khakhra Pizza</strong> – Extra-crunchy, spicy base adds a bold and fun twist to pizza-style snacks.</span>\n</li>\n<li style=\"display: flex; gap: 8px; margin-bottom: 8px;\">\n<span>•</span> <span><strong>Kurkure Khakhra Made for Every Chai Break</strong> – Super crunchy, chatpata, and perfect for your daily chai cravings.</span>\n</li>\n<li style=\"display: flex; gap: 8px; margin-bottom: 8px;\">\n<span>•</span> <span><strong>Kurkure Khakhra with Every Sabzi</strong> – Adds an exciting crunchy texture alongside everyday vegetable dishes.</span>\n</li>\n<li style=\"display: flex; gap: 8px; margin-bottom: 8px;\">\n<span>•</span> <span><strong>Kurkure Khakhra: The Classic Dal Pakwan Twist</strong> – Brings an extra-crispy, spicy crunch to traditional dal pakwan.</span>\n</li>\n<li style=\"display: flex; gap: 8px; margin-bottom: 8px;\">\n<span>•</span> <span><strong>Enjoy Kurkure Khakhra with Hot Soup</strong> – Crunchy and spicy, creating a perfect contrast with warm soups.</span>\n</li>\n<li style=\"display: flex; gap: 8px; margin-bottom: 8px;\">\n<span>•</span> <span><strong>Healthy Crunch with Kurkure Khakhra</strong> – Extra kurkura, flavorful, and ideal for snack lovers anytime.</span>\n</li>\n</ul>\n</div>",
+      "variant_ids": [
+        219
+      ],
+      "image_url": "https://megaecomm.megascale.co.in/backend/media/1/8eaca69ee2c01ac52b8c07994e54c383.webp",
+      "availableForSale": false,
+      "priceRange": {
+        "minVariantPrice": {
+          "amount": "144.00",
+          "currencyCode": "INR"
+        },
+        "maxVariantPrice": {
+          "amount": "144.00",
+          "currencyCode": "INR"
+        }
+      },
+      "compareAtPrice": null,
+      "images": [
+        {
+          "url": "https://megaecomm.megascale.co.in/backend/media/1/8eaca69ee2c01ac52b8c07994e54c383.webp"
+        },
+        {
+          "url": "https://megaecomm.megascale.co.in/backend/media/1/acb7199ec618b12ff660fdb48c72f9b4.webp"
+        },
+        {
+          "url": "https://megaecomm.megascale.co.in/backend/media/1/dad0946b7618339c419664fc3fdfb664.webp"
+        },
+        {
+          "url": "https://megaecomm.megascale.co.in/backend/media/1/d8104285864d24b7931ea05648cf3dab.webp"
+        },
+        {
+          "url": "https://megaecomm.megascale.co.in/backend/media/1/d893296f641d7404b526c5d5b83ea7d3.webp"
+        },
+        {
+          "url": "https://megaecomm.megascale.co.in/backend/media/1/3171acfb02b09ec49bba3c53c4d13a22.webp"
+        },
+        {
+          "url": "https://megaecomm.megascale.co.in/backend/media/1/2175eff8ce14f15908e6ad5a604fc8ca.webp"
+        },
+        {
+          "url": "https://megaecomm.megascale.co.in/backend/media/1/ec0f3f2a1cd4c6296fb9febf78723d29.webp"
+        },
+        {
+          "url": "https://megaecomm.megascale.co.in/backend/media/1/4944edc4c412b6a98da8cfce7a4d3979.webp"
+        }
+      ],
+      "avg_rating": 0,
+      "total_reviews": 0,
+      "inventory_quantity": 0,
+      "variants": [
+        {
+          "id": 219,
+          "title": "200 gm / 7-8 pcs",
+          "availableForSale": false,
+          "sku": "KH-KURKURE-GHEE-3",
+          "price": {
+            "amount": 144,
+            "currencyCode": "INR"
+          },
+          "compareAtPrice": {
+            "amount": 170,
+            "currencyCode": "INR"
+          },
+          "selectedOptions": [
+            {
+              "name": "Weight",
+              "value": "200 gm / 7-8 pcs"
+            }
+          ],
+          "image": null,
+          "weight": 200,
+          "weightUnit": "G",
+          "inventoryQuantity": 0
+        }
+      ],
+      "options": [
+        {
+          "name": "Weight",
+          "values": [
+            "200 gm / 7-8 pcs"
+          ]
+        }
+      ],
+      "created_at": "2026-05-19T11:01:13.451Z",
+      "updated_at": "2026-05-19T11:01:13.451Z"
+    },
+    {
+      "id": "86",
+      "title": "Today's Offer Juvar Khakhra | जुवर खाखरा | Made With Pure Ghee",
+      "handle": "todays-offer-juvar-khakhra-made-with-pure-ghee",
+      "description": "<p>Crafted with pure ghee, our Jav Khakhra delivers authentic taste with nutritional excellence. Barley's natural richness provides sustained energy and dietary fibre, making each bite both nourishing and satisfying. The ghee infusion enhances flavour while supporting digestive wellness. Ideal for breakfast, mid-day snacking, or on-the-go nutrition, this traditional khakhra combines time-honoured preparation methods with wholesome ingredients for a genuinely fortifying snack.</p>\n<p>Barley-rich Jav Khakhra...</p><br>\n<div class=\"khakhra-use-cases\">\n<div style=\"font-size: 20px; font-weight: 600; margin-bottom: 12px;\">How People Enjoy Juvar Khakhra Every Day</div>\n<ul style=\"list-style: none; padding-left: 0; margin: 0;\">\n<li style=\"display: flex; gap: 8px; margin-bottom: 8px;\">\n<span>•</span> <span><strong>Healthy Juvar Khakhra Pizza</strong> – Enjoy as a crunchy, nutritious base for a pizza twist.</span>\n</li>\n<li style=\"display: flex; gap: 8px; margin-bottom: 8px;\">\n<span>•</span> <span><strong>Juvar Khakhra Made for Every Chai Break</strong> – Light, flavorful, and perfect with your daily chai.</span>\n</li>\n<li style=\"display: flex; gap: 8px; margin-bottom: 8px;\">\n<span>•</span> <span><strong>Juvar Khakhra with Every Sabzi</strong> – Pairs wonderfully with vegetable curries or stir-fries.</span>\n</li>\n<li style=\"display: flex; gap: 8px; margin-bottom: 8px;\">\n<span>•</span> <span><strong>Juvar Khakhra: The Classic Dal Pakwan Twist</strong> – Adds a crunchy, healthy upgrade to your dal pakwan.</span>\n</li>\n<li style=\"display: flex; gap: 8px; margin-bottom: 8px;\">\n<span>•</span> <span><strong>Enjoy Juvar Khakhra with Hot Soup</strong> – Perfectly crisp alongside a warm bowl of soup.</span>\n</li>\n<li style=\"display: flex; gap: 8px; margin-bottom: 8px;\">\n<span>•</span> <span><strong>Healthy Crunch with Juvar Khakhra</strong> – A wholesome snack to enjoy anytime.</span>\n</li>\n</ul>\n</div>",
+      "variant_ids": [
+        218
+      ],
+      "image_url": "https://megaecomm.megascale.co.in/backend/media/1/45755487a6e03e8d61ff8a84a5207652.webp",
+      "availableForSale": false,
+      "priceRange": {
+        "minVariantPrice": {
+          "amount": "127.00",
+          "currencyCode": "INR"
+        },
+        "maxVariantPrice": {
+          "amount": "127.00",
+          "currencyCode": "INR"
+        }
+      },
+      "compareAtPrice": null,
+      "images": [
+        {
+          "url": "https://megaecomm.megascale.co.in/backend/media/1/45755487a6e03e8d61ff8a84a5207652.webp"
+        },
+        {
+          "url": "https://megaecomm.megascale.co.in/backend/media/1/64415eb5d59e0d5bb468eca1cc6f10b5.webp"
+        },
+        {
+          "url": "https://megaecomm.megascale.co.in/backend/media/1/dbe4a31ba13f6ebb259e730e761bc3d0.webp"
+        },
+        {
+          "url": "https://megaecomm.megascale.co.in/backend/media/1/4b0f40cc2a69ec8f6313889003329ab5.webp"
+        },
+        {
+          "url": "https://megaecomm.megascale.co.in/backend/media/1/a447cef2ebcfc88d7171b0cf61413ba9.webp"
+        },
+        {
+          "url": "https://megaecomm.megascale.co.in/backend/media/1/3588f541aaf38b1a161b8af575d01d69.webp"
+        },
+        {
+          "url": "https://megaecomm.megascale.co.in/backend/media/1/803f62f1b608321d2c20224f8bfc9024.webp"
+        },
+        {
+          "url": "https://megaecomm.megascale.co.in/backend/media/1/5320b67f3cce0020b3c7fd3b8b26f618.webp"
+        },
+        {
+          "url": "https://megaecomm.megascale.co.in/backend/media/1/6007b932bce952d052a9e52b362c0c5e.webp"
+        }
+      ],
+      "avg_rating": 0,
+      "total_reviews": 0,
+      "inventory_quantity": 0,
+      "variants": [
+        {
+          "id": 218,
+          "title": "200 gm / 7-8 pcs",
+          "availableForSale": false,
+          "sku": "KH-JUVAR-GHEE-2",
+          "price": {
+            "amount": 127,
+            "currencyCode": "INR"
+          },
+          "compareAtPrice": {
+            "amount": 170,
+            "currencyCode": "INR"
+          },
+          "selectedOptions": [
+            {
+              "name": "Weight",
+              "value": "200 gm / 7-8 pcs"
+            }
+          ],
+          "image": null,
+          "weight": 200,
+          "weightUnit": "G",
+          "inventoryQuantity": 0
+        }
+      ],
+      "options": [
+        {
+          "name": "Weight",
+          "values": [
+            "200 gm / 7-8 pcs"
+          ]
+        }
+      ],
+      "created_at": "2026-05-19T11:01:13.431Z",
+      "updated_at": "2026-05-19T11:01:13.431Z"
+    },
+    {
+      "id": "85",
+      "title": "Today's Offer Juvar Khakhra Oil | जुवर खाखरा",
+      "handle": "todays-offer-juvar-khakhra-oil",
+      "description": "<p>Made with sorghum flour, Juvar Khakhra is airy, easy on the stomach and ideal for health-conscious snackers. Its mild flavour pairs beautifully with dips, pickles or alone.</p>\n<p>Light, simple and digestion-friendly.</p>\n<p><br></p>\n<div class=\"khakhra-use-cases\">\n<div style=\"font-size: 20px; font-weight: 600; margin-bottom: 12px;\">How People Enjoy Juvar Khakhra Every Day</div>\n<ul style=\"list-style: none; padding-left: 0; margin: 0;\">\n<li style=\"display: flex; gap: 8px; margin-bottom: 8px;\">\n<span>•</span> <span><strong>Healthy Juvar Khakhra Pizza</strong> – Enjoy as a crunchy, nutritious base for a pizza twist.</span>\n</li>\n<li style=\"display: flex; gap: 8px; margin-bottom: 8px;\">\n<span>•</span> <span><strong>Juvar Khakhra Made for Every Chai Break</strong> – Light, flavorful, and perfect with your daily chai.</span>\n</li>\n<li style=\"display: flex; gap: 8px; margin-bottom: 8px;\">\n<span>•</span> <span><strong>Juvar Khakhra with Every Sabzi</strong> – Pairs wonderfully with vegetable curries or stir-fries.</span>\n</li>\n<li style=\"display: flex; gap: 8px; margin-bottom: 8px;\">\n<span>•</span> <span><strong>Juvar Khakhra: The Classic Dal Pakwan Twist</strong> – Adds a crunchy, healthy upgrade to your dal pakwan.</span>\n</li>\n<li style=\"display: flex; gap: 8px; margin-bottom: 8px;\">\n<span>•</span> <span><strong>Enjoy Juvar Khakhra with Hot Soup</strong> – Perfectly crisp alongside a warm bowl of soup.</span>\n</li>\n<li style=\"display: flex; gap: 8px; margin-bottom: 8px;\">\n<span>•</span> <span><strong>Healthy Crunch with Juvar Khakhra</strong> – A wholesome snack to enjoy anytime.</span>\n</li>\n</ul>\n</div>",
+      "variant_ids": [
+        217
+      ],
+      "image_url": "https://megaecomm.megascale.co.in/backend/media/1/65f890dd1ab097a92bbc9cb6d173014c.webp",
+      "availableForSale": false,
+      "priceRange": {
+        "minVariantPrice": {
+          "amount": "65.00",
+          "currencyCode": "INR"
+        },
+        "maxVariantPrice": {
+          "amount": "65.00",
+          "currencyCode": "INR"
+        }
+      },
+      "compareAtPrice": null,
+      "images": [
+        {
+          "url": "https://megaecomm.megascale.co.in/backend/media/1/65f890dd1ab097a92bbc9cb6d173014c.webp"
+        },
+        {
+          "url": "https://megaecomm.megascale.co.in/backend/media/1/5115d06d0471da685aa2cc2289ee13e9.webp"
+        },
+        {
+          "url": "https://megaecomm.megascale.co.in/backend/media/1/db450a4cd1a892b8debf9187e444f7c4.webp"
+        },
+        {
+          "url": "https://megaecomm.megascale.co.in/backend/media/1/6097ed06f47ad0f4128d203ec982707f.webp"
+        },
+        {
+          "url": "https://megaecomm.megascale.co.in/backend/media/1/e557c25e90d5bac05e6e64f36cf22bee.webp"
+        },
+        {
+          "url": "https://megaecomm.megascale.co.in/backend/media/1/78c4fd3c9317852754c8cb81737070ac.webp"
+        },
+        {
+          "url": "https://megaecomm.megascale.co.in/backend/media/1/65791778ef78a7b73919667121327069.webp"
+        },
+        {
+          "url": "https://megaecomm.megascale.co.in/backend/media/1/9909ea815ba0c94fca5c4ce08ef26c34.webp"
+        },
+        {
+          "url": "https://megaecomm.megascale.co.in/backend/media/1/3b6a7af982f30e30608bd19cc2982f00.webp"
+        },
+        {
+          "url": "https://megaecomm.megascale.co.in/backend/media/1/7a717d72dfd2928ea870cb1e39ab37b3.webp"
+        },
+        {
+          "url": "https://megaecomm.megascale.co.in/backend/media/1/2c731f3473e0d87bb3b1ef1caa9cf2fa.webp"
+        }
+      ],
+      "avg_rating": 0,
+      "total_reviews": 0,
+      "inventory_quantity": 0,
+      "variants": [
+        {
+          "id": 217,
+          "title": "200 gm / 7-8 pcs",
+          "availableForSale": false,
+          "sku": "KH-JUVAR-015",
+          "price": {
+            "amount": 65,
+            "currencyCode": "INR"
+          },
+          "compareAtPrice": {
+            "amount": 110,
+            "currencyCode": "INR"
+          },
+          "selectedOptions": [
+            {
+              "name": "Weight",
+              "value": "200 gm / 7-8 pcs"
+            }
+          ],
+          "image": null,
+          "weight": 200,
+          "weightUnit": "G",
+          "inventoryQuantity": 0
+        }
+      ],
+      "options": [
+        {
+          "name": "Weight",
+          "values": [
+            "200 gm / 7-8 pcs"
+          ]
+        }
+      ],
+      "created_at": "2026-05-19T11:01:13.407Z",
+      "updated_at": "2026-05-19T11:01:13.407Z"
+    },
+    {
+      "id": "84",
+      "title": "Today's Offer Jeera Khakhra Oil | जीरा खाखरा",
+      "handle": "todays-offer-jeera-khakhra-oil",
+      "description": "<p>Made with aromatic roasted cumin seeds, our Jeera Khakhra offers a comforting and digestive-friendly snacking experience. Its subtle flavour and crisp texture make it a versatile companion to tea, buttermilk or dips. Simple, light and timeless — perfect for all age groups.</p>\n<p>Light, fragrant and digestive Jeera Khakhra seasoned with premium cumin seeds.</p>\n<br><div class=\"khakhra-use-cases\">\n  <div style=\"font-size: 20px; font-weight: 600; margin-bottom: 12px;\">\n    How People Enjoy Jeera Khakhra Every Day\n  </div>\n  <ul style=\"list-style: none; padding-left: 0; margin: 0;\">\n    <li style=\"display: flex; gap: 8px; margin-bottom: 8px;\">\n      <span>•</span>\n      <span><strong>Healthy Jeera Khakhra Pizza</strong> – Crisp jeera base adds a fragrant, savory twist to your pizza toppings.</span>\n    </li>\n    <li style=\"display: flex; gap: 8px; margin-bottom: 8px;\">\n      <span>•</span>\n      <span><strong>Jeera Khakhra Made for Every Chai Break</strong> – Light, aromatic, and perfect to enjoy with your daily chai.</span>\n    </li>\n    <li style=\"display: flex; gap: 8px; margin-bottom: 8px;\">\n      <span>•</span>\n      <span><strong>Jeera Khakhra with Every Sabzi</strong> – Pairs beautifully with vegetable curries, adding a subtle cumin crunch.</span>\n    </li>\n    <li style=\"display: flex; gap: 8px; margin-bottom: 8px;\">\n      <span>•</span>\n      <span><strong>Jeera Khakhra: The Classic Dal Pakwan Twist</strong> – Adds a fragrant cumin crunch to your traditional dal pakwan.</span>\n    </li>\n    <li style=\"display: flex; gap: 8px; margin-bottom: 8px;\">\n      <span>•</span>\n      <span><strong>Enjoy Jeera Khakhra with Hot Soup</strong> – Crisp, aromatic, and perfectly complements warm soups.</span>\n    </li>\n    <li style=\"display: flex; gap: 8px; margin-bottom: 8px;\">\n      <span>•</span>\n      <span><strong>Healthy Crunch with Jeera Khakhra</strong> – Wholesome, crunchy, and subtly flavored with aromatic cumin for any time snack.</span>\n    </li>\n  </ul>\n</div>\n",
+      "variant_ids": [
+        216
+      ],
+      "image_url": "https://megaecomm.megascale.co.in/backend/media/1/60179b2c5aed5994d8d14068e7cde75f.webp",
+      "availableForSale": false,
+      "priceRange": {
+        "minVariantPrice": {
+          "amount": "50.00",
+          "currencyCode": "INR"
+        },
+        "maxVariantPrice": {
+          "amount": "50.00",
+          "currencyCode": "INR"
+        }
+      },
+      "compareAtPrice": null,
+      "images": [
+        {
+          "url": "https://megaecomm.megascale.co.in/backend/media/1/60179b2c5aed5994d8d14068e7cde75f.webp"
+        },
+        {
+          "url": "https://megaecomm.megascale.co.in/backend/media/1/104c0ddbb138967297d521dae11946f2.webp"
+        },
+        {
+          "url": "https://megaecomm.megascale.co.in/backend/media/1/0710e7095a037972eb05f1979d39f544.webp"
+        },
+        {
+          "url": "https://megaecomm.megascale.co.in/backend/media/1/c9ef19a078f15ba0bc54f78bb0a53156.webp"
+        },
+        {
+          "url": "https://megaecomm.megascale.co.in/backend/media/1/161efa3b88d8af97febb426d91c645a5.webp"
+        },
+        {
+          "url": "https://megaecomm.megascale.co.in/backend/media/1/3ebe89c7b502e4ae31e6ff1ea3b4f95f.webp"
+        },
+        {
+          "url": "https://megaecomm.megascale.co.in/backend/media/1/db40dfe82dfcb74398d0da6e409346c5.webp"
+        },
+        {
+          "url": "https://megaecomm.megascale.co.in/backend/media/1/1abb0b89de6756edd1f30e954c5c3049.webp"
+        },
+        {
+          "url": "https://megaecomm.megascale.co.in/backend/media/1/4440ff545990f43e8fdfdd5b9d93e324.webp"
+        },
+        {
+          "url": "https://megaecomm.megascale.co.in/backend/media/1/f1f0fdc70f90342228abf1fa1488e0a9.webp"
+        },
+        {
+          "url": "https://megaecomm.megascale.co.in/backend/media/1/52a1a58b3f773993fb240f6a6af735fc.webp"
+        }
+      ],
+      "avg_rating": 0,
+      "total_reviews": 0,
+      "inventory_quantity": 0,
+      "variants": [
+        {
+          "id": 216,
+          "title": "200 gm / 7-8 pcs",
+          "availableForSale": false,
+          "sku": "KH-JEERA-006",
+          "price": {
+            "amount": 50,
+            "currencyCode": "INR"
+          },
+          "compareAtPrice": {
+            "amount": 84,
+            "currencyCode": "INR"
+          },
+          "selectedOptions": [
+            {
+              "name": "Weight",
+              "value": "200 gm / 7-8 pcs"
+            }
+          ],
+          "image": null,
+          "weight": 200,
+          "weightUnit": "G",
+          "inventoryQuantity": 0
+        }
+      ],
+      "options": [
+        {
+          "name": "Weight",
+          "values": [
+            "200 gm / 7-8 pcs"
+          ]
+        }
+      ],
+      "created_at": "2026-05-19T11:01:13.378Z",
+      "updated_at": "2026-05-19T11:01:13.378Z"
+    },
+    {
+      "id": "81",
+      "title": "Today's Offer Cheese Khakhra Ghee | चीज खाखरा | Made With Pure Ghee",
+      "handle": "todays-offer-cheese-khakhra-made-with-pure-ghee",
+      "description": "<p>Our Cheese Khakhra combines...</p>\n<br>\n<div class=\"khakhra-use-cases\">\n  <div style=\"font-size: 20px; font-weight: 600; margin-bottom: 12px;\">\n    How People Enjoy Cheese Khakhra Every Day\n  </div>\n  <ul style=\"list-style: none; padding-left: 0; margin: 0;\">\n    <li style=\"display: flex; gap: 8px; margin-bottom: 8px;\">\n      <span>•</span>\n      <span><strong>Healthy Cheese Khakhra Pizza</strong> – Creamy, cheesy base adds a rich and indulgent twist to pizza-style snacks.</span>\n    </li>\n    <li style=\"display: flex; gap: 8px; margin-bottom: 8px;\">\n      <span>•</span>\n      <span><strong>Cheese Khakhra Made for Every Chai Break</strong> – Light, cheesy, and irresistibly crunchy with your daily chai.</span>\n    </li>\n    <li style=\"display: flex; gap: 8px; margin-bottom: 8px;\">\n      <span>•</span>\n      <span><strong>Cheese Khakhra with Every Sabzi</strong> – Adds a mild, creamy crunch that pairs well with vegetable curries.</span>\n    </li>\n    <li style=\"display: flex; gap: 8px; margin-bottom: 8px;\">\n      <span>•</span>\n      <span><strong>Cheese Khakhra: The Classic Dal Pakwan Twist</strong> – Brings a rich, cheesy crunch to the traditional dal pakwan.</span>\n    </li>\n    <li style=\"display: flex; gap: 8px; margin-bottom: 8px;\">\n      <span>•</span>\n      <span><strong>Enjoy Cheese Khakhra with Hot Soup</strong> – Crisp and cheesy, making soups more comforting and flavorful.</span>\n    </li>\n    <li style=\"display: flex; gap: 8px; margin-bottom: 8px;\">\n      <span>•</span>\n      <span><strong>Healthy Crunch with Cheese Khakhra</strong> – Cheesy, crunchy, and satisfying for a tasty snack anytime.</span>\n    </li>\n  </ul>\n</div>\n",
+      "variant_ids": [
+        213
+      ],
+      "image_url": "https://megaecomm.megascale.co.in/backend/media/1/1f40f2a9caccd6424606ba18e95f301f.webp",
+      "availableForSale": false,
+      "priceRange": {
+        "minVariantPrice": {
+          "amount": "161.00",
+          "currencyCode": "INR"
+        },
+        "maxVariantPrice": {
+          "amount": "161.00",
+          "currencyCode": "INR"
+        }
+      },
+      "compareAtPrice": null,
+      "images": [
+        {
+          "url": "https://megaecomm.megascale.co.in/backend/media/1/1f40f2a9caccd6424606ba18e95f301f.webp"
+        },
+        {
+          "url": "https://megaecomm.megascale.co.in/backend/media/1/161045ea783148f9fee3c32a476867fd.webp"
+        },
+        {
+          "url": "https://megaecomm.megascale.co.in/backend/media/1/cc1bfb749223eee7e91f70d49a1aecc8.webp"
+        },
+        {
+          "url": "https://megaecomm.megascale.co.in/backend/media/1/b5ff3f3f88e0b98647ab16299fcc9388.webp"
+        },
+        {
+          "url": "https://megaecomm.megascale.co.in/backend/media/1/64b869138f1d96c1fc6a15a0fb115463.webp"
+        },
+        {
+          "url": "https://megaecomm.megascale.co.in/backend/media/1/fc009dbaa7dbd24d9a23300d96e74b3b.webp"
+        },
+        {
+          "url": "https://megaecomm.megascale.co.in/backend/media/1/a0efcc1745765cebeef6d682b7c4e43a.webp"
+        },
+        {
+          "url": "https://megaecomm.megascale.co.in/backend/media/1/75e2cc4ce6b6dc0e4261866c83a8cc4d.webp"
+        },
+        {
+          "url": "https://megaecomm.megascale.co.in/backend/media/1/b3536a0ce38b8fb33d473eed5475e8dc.webp"
+        }
+      ],
+      "avg_rating": 0,
+      "total_reviews": 0,
+      "inventory_quantity": 0,
+      "variants": [
+        {
+          "id": 213,
+          "title": "200 gm / 7-8 pcs",
+          "availableForSale": false,
+          "sku": "KH-CHEESE-GHEE-3",
+          "price": {
+            "amount": 161,
+            "currencyCode": "INR"
+          },
+          "compareAtPrice": {
+            "amount": 190,
+            "currencyCode": "INR"
+          },
+          "selectedOptions": [
+            {
+              "name": "Weight",
+              "value": "200 gm / 7-8 pcs"
+            }
+          ],
+          "image": null,
+          "weight": 200,
+          "weightUnit": "G",
+          "inventoryQuantity": 0
+        }
+      ],
+      "options": [
+        {
+          "name": "Weight",
+          "values": [
+            "200 gm / 7-8 pcs"
+          ]
+        }
+      ],
+      "created_at": "2026-05-19T11:01:13.293Z",
+      "updated_at": "2026-05-19T11:01:13.293Z"
+    },
+    {
+      "id": "80",
+      "title": "Today's Offer Chana Khakhra Oil | चना खाखरा",
+      "handle": "todays-offer-chana-khakhra",
+      "description": "<p>Made using roasted chickpea flour, Chana Khakhra is wholesome, rich in fibre and incredibly satisfying. It supports digestion and makes a great light meal or midday snack.</p>\n<p>Fibre-packed and filling with a delicious chana taste.</p>\n<p><br></p>\n<div class=\"khakhra-use-cases\">\n<div style=\"font-size: 20px; font-weight: 600; margin-bottom: 12px;\">How People Enjoy Chana Khakhra Every Day</div>\n<ul style=\"list-style: none; padding-left: 0; margin: 0;\">\n<li style=\"display: flex; gap: 8px; margin-bottom: 8px;\">\n<span>•</span> <span><strong>Healthy Chana Khakhra Pizza</strong> – Hearty chana base gives a protein-rich, robust twist to pizza-style snacks.</span>\n</li>\n<li style=\"display: flex; gap: 8px; margin-bottom: 8px;\">\n<span>•</span> <span><strong>Chana Khakhra Made for Every Chai Break</strong> – Filling, crunchy, and perfect with your everyday chai.</span>\n</li>\n<li style=\"display: flex; gap: 8px; margin-bottom: 8px;\">\n<span>•</span> <span><strong>Chana Khakhra with Every Sabzi</strong> – Complements vegetable curries with a bold, nutty crunch.</span>\n</li>\n<li style=\"display: flex; gap: 8px; margin-bottom: 8px;\">\n<span>•</span> <span><strong>Chana Khakhra: The Classic Dal Pakwan Twist</strong> – Adds a wholesome, protein-packed crunch to the traditional favorite.</span>\n</li>\n<li style=\"display: flex; gap: 8px; margin-bottom: 8px;\">\n<span>•</span> <span><strong>Enjoy Chana Khakhra with Hot Soup</strong> – Thick, crunchy texture pairs beautifully with warm soups.</span>\n</li>\n<li style=\"display: flex; gap: 8px; margin-bottom: 8px;\">\n<span>•</span> <span><strong>Healthy Crunch with Chana Khakhra</strong> – Nutritious, satisfying, and ideal for long-lasting energy.</span>\n</li>\n</ul>\n</div>",
+      "variant_ids": [
+        212
+      ],
+      "image_url": "https://megaecomm.megascale.co.in/backend/media/1/e6546945aa4a16cd0bca5ee22b3538ae.webp",
+      "availableForSale": false,
+      "priceRange": {
+        "minVariantPrice": {
+          "amount": "80.00",
+          "currencyCode": "INR"
+        },
+        "maxVariantPrice": {
+          "amount": "80.00",
+          "currencyCode": "INR"
+        }
+      },
+      "compareAtPrice": null,
+      "images": [
+        {
+          "url": "https://megaecomm.megascale.co.in/backend/media/1/e6546945aa4a16cd0bca5ee22b3538ae.webp"
+        },
+        {
+          "url": "https://megaecomm.megascale.co.in/backend/media/1/03529c56deff66b82dcce7a0c3f71e2f.webp"
+        },
+        {
+          "url": "https://megaecomm.megascale.co.in/backend/media/1/912344006b7b29e1e91660185c6737b2.webp"
+        },
+        {
+          "url": "https://megaecomm.megascale.co.in/backend/media/1/89348e9569996b70804316d7e5889dad.webp"
+        },
+        {
+          "url": "https://megaecomm.megascale.co.in/backend/media/1/04b58d1006a92bf8be11f8f6afeb7523.webp"
+        },
+        {
+          "url": "https://megaecomm.megascale.co.in/backend/media/1/23b034260cf55c422edc59d4b9099951.webp"
+        },
+        {
+          "url": "https://megaecomm.megascale.co.in/backend/media/1/8ec8c2f3e0f16ed5a54c6be7bd3efaab.webp"
+        },
+        {
+          "url": "https://megaecomm.megascale.co.in/backend/media/1/420140ef3fb1311e538ab0d1741a7ebf.webp"
+        },
+        {
+          "url": "https://megaecomm.megascale.co.in/backend/media/1/e6638d95b4e3325149ecd8112c0870fa.webp"
+        },
+        {
+          "url": "https://megaecomm.megascale.co.in/backend/media/1/df96c3e9bd7ffd2b81a951a514d3bd4d.webp"
+        },
+        {
+          "url": "https://megaecomm.megascale.co.in/backend/media/1/33eb035f6e30d01d4e1b32f0d66189d5.webp"
+        }
+      ],
+      "avg_rating": 0,
+      "total_reviews": 0,
+      "inventory_quantity": 0,
+      "variants": [
+        {
+          "id": 212,
+          "title": "200 gm / 7-8 pcs",
+          "availableForSale": false,
+          "sku": "KH-CHANA-0012",
+          "price": {
+            "amount": 80,
+            "currencyCode": "INR"
+          },
+          "compareAtPrice": {
+            "amount": 140,
+            "currencyCode": "INR"
+          },
+          "selectedOptions": [
+            {
+              "name": "Weight",
+              "value": "200 gm / 7-8 pcs"
+            }
+          ],
+          "image": null,
+          "weight": 200,
+          "weightUnit": "G",
+          "inventoryQuantity": 0
+        }
+      ],
+      "options": [
+        {
+          "name": "Weight",
+          "values": [
+            "200 gm / 7-8 pcs"
+          ]
+        }
+      ],
+      "created_at": "2026-05-19T11:01:13.274Z",
+      "updated_at": "2026-05-19T11:01:13.274Z"
+    },
+    {
+      "id": "78",
+      "title": "Today's Offer Bajri Khakhra Oil | बाजरी खाखरा",
+      "handle": "todays-offer-bajri-khakhra-oil",
+      "description": "<p>Prepared using nutritious pearl millet flour, Bajri Khakhra carries a rustic, rural charm. It’s warming, filling and rich in minerals — perfect for winter days or when you need something hearty and healthy.</p>\n<p>Traditional, hearty and wholesome.</p>\n<p><br></p>\n<div class=\"khakhra-use-cases\">\n<div style=\"font-size: 20px; font-weight: 600; margin-bottom: 12px;\">How People Enjoy Bajri Khakhra Every Day</div>\n<ul style=\"list-style: none; padding-left: 0; margin: 0;\">\n<li style=\"display: flex; gap: 8px; margin-bottom: 8px;\">\n<span>•</span> <span><strong>Healthy Bajri Khakhra Pizza</strong> – Earthy bajri base brings a rustic, hearty twist to pizza-style snacks.</span>\n</li>\n<li style=\"display: flex; gap: 8px; margin-bottom: 8px;\">\n<span>•</span> <span><strong>Bajri Khakhra Made for Every Chai Break</strong> – Thick, crunchy, and deeply satisfying with hot chai.</span>\n</li>\n<li style=\"display: flex; gap: 8px; margin-bottom: 8px;\">\n<span>•</span> <span><strong>Bajri Khakhra with Every Sabzi</strong> – Pairs wonderfully with traditional sabzis, adding a wholesome millet crunch.</span>\n</li>\n<li style=\"display: flex; gap: 8px; margin-bottom: 8px;\">\n<span>•</span> <span><strong>Bajri Khakhra: The Classic Dal Pakwan Twist</strong> – Adds a hearty, rural-style crunch to the classic dal pakwan.</span>\n</li>\n<li style=\"display: flex; gap: 8px; margin-bottom: 8px;\">\n<span>•</span> <span><strong>Enjoy Bajri Khakhra with Hot Soup</strong> – Strong texture holds well with warm, thick soups.</span>\n</li>\n<li style=\"display: flex; gap: 8px; margin-bottom: 8px;\">\n<span>•</span> <span><strong>Healthy Crunch with Bajri Khakhra</strong> – Filling, nutritious, and ideal for sustained energy.</span>\n</li>\n</ul>\n</div>",
+      "variant_ids": [
+        210
+      ],
+      "image_url": "https://megaecomm.megascale.co.in/backend/media/1/ab190518be15d10ced733004cfdc5642.webp",
+      "availableForSale": false,
+      "priceRange": {
+        "minVariantPrice": {
+          "amount": "65.00",
+          "currencyCode": "INR"
+        },
+        "maxVariantPrice": {
+          "amount": "65.00",
+          "currencyCode": "INR"
+        }
+      },
+      "compareAtPrice": null,
+      "images": [
+        {
+          "url": "https://megaecomm.megascale.co.in/backend/media/1/ab190518be15d10ced733004cfdc5642.webp"
+        },
+        {
+          "url": "https://megaecomm.megascale.co.in/backend/media/1/801c0d8f94594cf10bf3cf878004521c.webp"
+        },
+        {
+          "url": "https://megaecomm.megascale.co.in/backend/media/1/ccd68ab2b81aa76c02309439b6087076.webp"
+        },
+        {
+          "url": "https://megaecomm.megascale.co.in/backend/media/1/b87ba4af96bbc80ac23a36712b54f12a.webp"
+        },
+        {
+          "url": "https://megaecomm.megascale.co.in/backend/media/1/2a785e9ce10a9359cadb8ff7bde49b6f.webp"
+        },
+        {
+          "url": "https://megaecomm.megascale.co.in/backend/media/1/acb11173a8a06d425212a9b117fa135a.webp"
+        },
+        {
+          "url": "https://megaecomm.megascale.co.in/backend/media/1/9fba8f79fe82981df9820467187394ae.webp"
+        },
+        {
+          "url": "https://megaecomm.megascale.co.in/backend/media/1/e089d37d0388e2a1b092efe0be059251.webp"
+        },
+        {
+          "url": "https://megaecomm.megascale.co.in/backend/media/1/ced5755774ea366d08c2d8acefb61580.webp"
+        },
+        {
+          "url": "https://megaecomm.megascale.co.in/backend/media/1/4f9652fdd7e9837a63a11fac73c58007.webp"
+        },
+        {
+          "url": "https://megaecomm.megascale.co.in/backend/media/1/3d86a5bb2d7ea2a2a8179478b91ea763.webp"
+        }
+      ],
+      "avg_rating": 0,
+      "total_reviews": 0,
+      "inventory_quantity": 0,
+      "variants": [
+        {
+          "id": 210,
+          "title": "200 gm / 7-8 pcs",
+          "availableForSale": false,
+          "sku": "KH-BAJRI-013",
+          "price": {
+            "amount": 65,
+            "currencyCode": "INR"
+          },
+          "compareAtPrice": {
+            "amount": 110,
+            "currencyCode": "INR"
+          },
+          "selectedOptions": [
+            {
+              "name": "Weight",
+              "value": "200 gm / 7-8 pcs"
+            }
+          ],
+          "image": null,
+          "weight": 200,
+          "weightUnit": "G",
+          "inventoryQuantity": 0
+        }
+      ],
+      "options": [
+        {
+          "name": "Weight",
+          "values": [
+            "200 gm / 7-8 pcs"
+          ]
+        }
+      ],
+      "created_at": "2026-05-19T11:01:13.224Z",
+      "updated_at": "2026-05-19T11:01:13.224Z"
+    },
+    {
+      "id": "76",
+      "title": "Sugar Free Special American Dryfruit Punch | Special American Dryfruit Chikki",
+      "handle": "sugar-free-special-dryfruit-punch-chikki",
+      "description": "<p data-start=\"37\" data-end=\"366\">Indulge in the rich taste of our <strong data-start=\"70\" data-end=\"103\">Special Dryfruit Punch Chikki</strong>, a delightful sweet crafted with a premium blend of carefully selected dry fruits. Made using <strong data-start=\"198\" data-end=\"270\">cashews, almonds, pistachios, dates, and a hint of aromatic cardamom</strong>, this chikki offers a perfect combination of crunch, natural sweetness, and traditional flavor.</p>\n<p data-start=\"368\" data-end=\"640\">Each bite delivers the wholesome goodness of dry fruits along with a satisfying texture that makes it a perfect treat for every occasion. Prepared using high-quality ingredients and traditional methods, this chikki brings together authentic taste and a premium experience.</p>\n<p data-start=\"642\" data-end=\"815\">Whether enjoyed as a <strong data-start=\"663\" data-end=\"731\">festive sweet, shared with family, or given as a thoughtful gift</strong>, our Special Dryfruit Punch Chikki is a delicious way to celebrate special moments.</p>",
+      "variant_ids": [
+        206,
+        207,
+        208
+      ],
+      "image_url": "https://megaecomm.megascale.co.in/backend/media/1/53393e207f6e4ecbf491d0360885d78e.jpg",
+      "availableForSale": true,
+      "priceRange": {
+        "minVariantPrice": {
+          "amount": "300.00",
+          "currencyCode": "INR"
+        },
+        "maxVariantPrice": {
+          "amount": "1140.00",
+          "currencyCode": "INR"
+        }
+      },
+      "compareAtPrice": null,
+      "images": [
+        {
+          "url": "https://megaecomm.megascale.co.in/backend/media/1/53393e207f6e4ecbf491d0360885d78e.jpg"
+        },
+        {
+          "url": "https://megaecomm.megascale.co.in/backend/media/1/d445850b70873948c7a7071958cdf114.jpg"
+        },
+        {
+          "url": "https://megaecomm.megascale.co.in/backend/media/1/b7f7ce2439c43dc8e0417a7ecbbbe256.jpg"
+        },
+        {
+          "url": "https://megaecomm.megascale.co.in/backend/media/1/b84ee3aa4b8f016e13594c608692b312.jpg"
+        }
+      ],
+      "avg_rating": 0,
+      "total_reviews": 0,
+      "inventory_quantity": 5956,
+      "variants": [
+        {
+          "id": 206,
+          "title": "250g",
+          "availableForSale": true,
+          "sku": null,
+          "price": {
+            "amount": 300,
+            "currencyCode": "INR"
+          },
+          "compareAtPrice": {
+            "amount": 400,
+            "currencyCode": "INR"
+          },
+          "selectedOptions": [
+            {
+              "name": "Weight",
+              "value": "250g"
+            }
+          ],
+          "image": null,
+          "weight": 250,
+          "weightUnit": "G",
+          "inventoryQuantity": 1956
+        },
+        {
+          "id": 207,
+          "title": "500g",
+          "availableForSale": true,
+          "sku": null,
+          "price": {
+            "amount": 580,
+            "currencyCode": "INR"
+          },
+          "compareAtPrice": {
+            "amount": 800,
+            "currencyCode": "INR"
+          },
+          "selectedOptions": [
+            {
+              "name": "Weight",
+              "value": "500g"
+            }
+          ],
+          "image": null,
+          "weight": 500,
+          "weightUnit": "G",
+          "inventoryQuantity": 2000
+        },
+        {
+          "id": 208,
+          "title": "1Kg",
+          "availableForSale": true,
+          "sku": null,
+          "price": {
+            "amount": 1140,
+            "currencyCode": "INR"
+          },
+          "compareAtPrice": {
+            "amount": 1600,
+            "currencyCode": "INR"
+          },
+          "selectedOptions": [
+            {
+              "name": "Weight",
+              "value": "1Kg"
+            }
+          ],
+          "image": null,
+          "weight": 1,
+          "weightUnit": "KG",
+          "inventoryQuantity": 2000
+        }
+      ],
+      "options": [
+        {
+          "name": "Weight",
+          "values": [
+            "250g",
+            "500g",
+            "1Kg"
+          ]
+        }
+      ],
+      "created_at": "2026-05-19T11:01:13.153Z",
+      "updated_at": "2026-05-19T11:01:13.153Z"
+    },
+    {
+      "id": "75",
+      "title": "Sugar Free Nutritional Punch | Protein Bar",
+      "handle": "sugar-free-nutritional-punch-protein-bar",
+      "description": "<p data-start=\"59\" data-end=\"457\"><strong data-start=\"59\" data-end=\"92\">Nutritional Punch Protein Bar</strong> is a wholesome and energy-rich snack made with premium dry fruits, seeds, and natural ingredients to support an active and healthy lifestyle. It delivers a balanced combination of protein, healthy fats, and natural carbohydrates, making it an ideal snack for fitness enthusiasts, busy professionals, and anyone looking for a nutritious energy boost during the day.</p>\n<p data-start=\"459\" data-end=\"706\">Crafted with carefully selected ingredients, this protein bar provides sustained energy while satisfying hunger in a healthy way. Its naturally rich taste and chewy texture make it a perfect alternative to processed snacks and sugar-loaded sweets.</p>",
+      "variant_ids": [
+        203,
+        204,
+        205
+      ],
+      "image_url": "https://megaecomm.megascale.co.in/backend/media/1/7623c593ab8c3d5a66ab6b3665190d7e.jpg",
+      "availableForSale": true,
+      "priceRange": {
+        "minVariantPrice": {
+          "amount": "300.00",
+          "currencyCode": "INR"
+        },
+        "maxVariantPrice": {
+          "amount": "1140.00",
+          "currencyCode": "INR"
+        }
+      },
+      "compareAtPrice": null,
+      "images": [
+        {
+          "url": "https://megaecomm.megascale.co.in/backend/media/1/7623c593ab8c3d5a66ab6b3665190d7e.jpg"
+        },
+        {
+          "url": "https://megaecomm.megascale.co.in/backend/media/1/ab7e1ed1d8e74a65000f1cfa0196f118.jpg"
+        },
+        {
+          "url": "https://megaecomm.megascale.co.in/backend/media/1/c0d9638b13d6ba91d618384ce2d89404.jpg"
+        }
+      ],
+      "avg_rating": 0,
+      "total_reviews": 0,
+      "inventory_quantity": 5988,
+      "variants": [
+        {
+          "id": 203,
+          "title": "250g",
+          "availableForSale": true,
+          "sku": null,
+          "price": {
+            "amount": 300,
+            "currencyCode": "INR"
+          },
+          "compareAtPrice": {
+            "amount": 400,
+            "currencyCode": "INR"
+          },
+          "selectedOptions": [
+            {
+              "name": "Weight",
+              "value": "250g"
+            }
+          ],
+          "image": null,
+          "weight": 250,
+          "weightUnit": "G",
+          "inventoryQuantity": 1988
+        },
+        {
+          "id": 204,
+          "title": "500g",
+          "availableForSale": true,
+          "sku": null,
+          "price": {
+            "amount": 580,
+            "currencyCode": "INR"
+          },
+          "compareAtPrice": {
+            "amount": 800,
+            "currencyCode": "INR"
+          },
+          "selectedOptions": [
+            {
+              "name": "Weight",
+              "value": "500g"
+            }
+          ],
+          "image": null,
+          "weight": 500,
+          "weightUnit": "G",
+          "inventoryQuantity": 2000
+        },
+        {
+          "id": 205,
+          "title": "1Kg",
+          "availableForSale": true,
+          "sku": null,
+          "price": {
+            "amount": 1140,
+            "currencyCode": "INR"
+          },
+          "compareAtPrice": {
+            "amount": 1600,
+            "currencyCode": "INR"
+          },
+          "selectedOptions": [
+            {
+              "name": "Weight",
+              "value": "1Kg"
+            }
+          ],
+          "image": null,
+          "weight": 1,
+          "weightUnit": "KG",
+          "inventoryQuantity": 2000
+        }
+      ],
+      "options": [
+        {
+          "name": "Weight",
+          "values": [
+            "250g",
+            "500g",
+            "1Kg"
+          ]
+        }
+      ],
+      "created_at": "2026-05-19T11:01:13.123Z",
+      "updated_at": "2026-05-19T11:01:13.123Z"
+    },
+    {
+      "id": "73",
+      "title": "Sugar Free Dry fruit Punch | Dry fruit Chikki",
+      "handle": "sugar-free-dryfruit-punch-chikki",
+      "description": "<p data-start=\"30\" data-end=\"344\">Enjoy the rich and wholesome taste of our <strong data-start=\"72\" data-end=\"116\">Dryfruit Chikki made with Khajur (Dates)</strong>, a delicious blend of premium dry fruits and the natural sweetness of dates. Carefully crafted using <strong data-start=\"218\" data-end=\"262\">cashews, almonds, pistachios, and khajur</strong>, this chikki offers a perfect balance of crunch and natural flavor in every bite.</p>\n<p data-start=\"346\" data-end=\"639\">The soft sweetness of <strong data-start=\"368\" data-end=\"377\">dates</strong> combines beautifully with the crunchy texture of dry fruits, creating a delightful sweet that is both satisfying and nourishing. Made with high-quality ingredients and traditional preparation methods, this chikki delivers an authentic taste with a premium feel.</p>\n<p data-start=\"641\" data-end=\"792\">Perfect for <strong data-start=\"653\" data-end=\"727\">festive celebrations, family gatherings, or as a wholesome sweet snack</strong>, Dryfruit Chikki with Khajur is a treat that everyone can enjoy.</p>",
+      "variant_ids": [
+        197,
+        198,
+        199
+      ],
+      "image_url": "https://megaecomm.megascale.co.in/backend/media/1/346886157f017bd06187778607b49dcf.jpg",
+      "availableForSale": true,
+      "priceRange": {
+        "minVariantPrice": {
+          "amount": "225.00",
+          "currencyCode": "INR"
+        },
+        "maxVariantPrice": {
+          "amount": "840.00",
+          "currencyCode": "INR"
+        }
+      },
+      "compareAtPrice": null,
+      "images": [
+        {
+          "url": "https://megaecomm.megascale.co.in/backend/media/1/346886157f017bd06187778607b49dcf.jpg"
+        },
+        {
+          "url": "https://megaecomm.megascale.co.in/backend/media/1/93faf399f1c3ac8a18f237b9746d37ac.jpg"
+        },
+        {
+          "url": "https://megaecomm.megascale.co.in/backend/media/1/ebd40514b8828a62544da6bc0710384c.jpg"
+        },
+        {
+          "url": "https://megaecomm.megascale.co.in/backend/media/1/6262cfabf167549f408ba88fa9eddab9.jpg"
+        }
+      ],
+      "avg_rating": 0,
+      "total_reviews": 0,
+      "inventory_quantity": 6000,
+      "variants": [
+        {
+          "id": 197,
+          "title": "250g",
+          "availableForSale": true,
+          "sku": null,
+          "price": {
+            "amount": 225,
+            "currencyCode": "INR"
+          },
+          "compareAtPrice": {
+            "amount": 300,
+            "currencyCode": "INR"
+          },
+          "selectedOptions": [
+            {
+              "name": "Weight",
+              "value": "250g"
+            }
+          ],
+          "image": null,
+          "weight": 250,
+          "weightUnit": "G",
+          "inventoryQuantity": 2000
+        },
+        {
+          "id": 198,
+          "title": "500g",
+          "availableForSale": true,
+          "sku": null,
+          "price": {
+            "amount": 430,
+            "currencyCode": "INR"
+          },
+          "compareAtPrice": {
+            "amount": 600,
+            "currencyCode": "INR"
+          },
+          "selectedOptions": [
+            {
+              "name": "Weight",
+              "value": "500g"
+            }
+          ],
+          "image": null,
+          "weight": 500,
+          "weightUnit": "G",
+          "inventoryQuantity": 2000
+        },
+        {
+          "id": 199,
+          "title": "1Kg",
+          "availableForSale": true,
+          "sku": null,
+          "price": {
+            "amount": 840,
+            "currencyCode": "INR"
+          },
+          "compareAtPrice": {
+            "amount": 1200,
+            "currencyCode": "INR"
+          },
+          "selectedOptions": [
+            {
+              "name": "Weight",
+              "value": "1Kg"
+            }
+          ],
+          "image": null,
+          "weight": 1,
+          "weightUnit": "KG",
+          "inventoryQuantity": 2000
+        }
+      ],
+      "options": [
+        {
+          "name": "Weight",
+          "values": [
+            "250g",
+            "500g",
+            "1Kg"
+          ]
+        }
+      ],
+      "created_at": "2026-05-19T11:01:13.066Z",
+      "updated_at": "2026-05-19T11:01:13.066Z"
+    },
+    {
+      "id": "72",
+      "title": "Sugar Free Anjeer Dryfruits Punch | Anjeer Dry Fruit Chikki",
+      "handle": "sugar-free-anjeer-dryfruits-punch-chikki",
+      "description": "<p data-start=\"176\" data-end=\"542\">Experience the rich taste of tradition with our <strong data-start=\"224\" data-end=\"257\">Anjeer Dryfruits Punch Chikki</strong>, a delicious blend of premium dried figs and carefully selected dry fruits. Crafted with love, this wholesome sweet combines the natural sweetness of <strong data-start=\"408\" data-end=\"425\">anjeer (figs)</strong> with the crunchy goodness of <strong data-start=\"455\" data-end=\"491\">almonds, cashews, and pistachios</strong>, creating a perfect balance of flavor and texture.</p>\n<p data-start=\"544\" data-end=\"827\">Every bite offers a satisfying crunch along with the rich, fruity taste of figs, making it a delightful treat for both festive celebrations and everyday indulgence. Made using high-quality ingredients and traditional methods, this chikki delivers authentic taste with a premium feel.</p>\n<p data-start=\"829\" data-end=\"925\">Perfect for sharing with family, gifting during festivals, or enjoying as a healthy sweet snack.</p>",
+      "variant_ids": [
+        194,
+        195,
+        196
+      ],
+      "image_url": "https://megaecomm.megascale.co.in/backend/media/1/d5cc60db0297e88c38164fd7b1b5bfd1.png",
+      "availableForSale": true,
+      "priceRange": {
+        "minVariantPrice": {
+          "amount": "250.00",
+          "currencyCode": "INR"
+        },
+        "maxVariantPrice": {
+          "amount": "940.00",
+          "currencyCode": "INR"
+        }
+      },
+      "compareAtPrice": null,
+      "images": [
+        {
+          "url": "https://megaecomm.megascale.co.in/backend/media/1/d5cc60db0297e88c38164fd7b1b5bfd1.png"
+        },
+        {
+          "url": "https://megaecomm.megascale.co.in/backend/media/1/3ba38b3e7a77d1a2b4fd8e7b0a914bc1.jpg"
+        },
+        {
+          "url": "https://megaecomm.megascale.co.in/backend/media/1/457a2cd85f6ed6656370a50a7fe651af.jpg"
+        },
+        {
+          "url": "https://megaecomm.megascale.co.in/backend/media/1/cdb71560b16b90afdd6b4556c85ca64a.jpg"
+        }
+      ],
+      "avg_rating": 0,
+      "total_reviews": 0,
+      "inventory_quantity": 6000,
+      "variants": [
+        {
+          "id": 194,
+          "title": "250g",
+          "availableForSale": true,
+          "sku": null,
+          "price": {
+            "amount": 250,
+            "currencyCode": "INR"
+          },
+          "compareAtPrice": {
+            "amount": 335,
+            "currencyCode": "INR"
+          },
+          "selectedOptions": [
+            {
+              "name": "Weight",
+              "value": "250g"
+            }
+          ],
+          "image": null,
+          "weight": 250,
+          "weightUnit": "G",
+          "inventoryQuantity": 2000
+        },
+        {
+          "id": 195,
+          "title": "500g",
+          "availableForSale": true,
+          "sku": null,
+          "price": {
+            "amount": 480,
+            "currencyCode": "INR"
+          },
+          "compareAtPrice": {
+            "amount": 670,
+            "currencyCode": "INR"
+          },
+          "selectedOptions": [
+            {
+              "name": "Weight",
+              "value": "500g"
+            }
+          ],
+          "image": null,
+          "weight": 500,
+          "weightUnit": "G",
+          "inventoryQuantity": 2000
+        },
+        {
+          "id": 196,
+          "title": "1Kg",
+          "availableForSale": true,
+          "sku": null,
+          "price": {
+            "amount": 940,
+            "currencyCode": "INR"
+          },
+          "compareAtPrice": {
+            "amount": 1340,
+            "currencyCode": "INR"
+          },
+          "selectedOptions": [
+            {
+              "name": "Weight",
+              "value": "1Kg"
+            }
+          ],
+          "image": null,
+          "weight": 1,
+          "weightUnit": "KG",
+          "inventoryQuantity": 2000
+        }
+      ],
+      "options": [
+        {
+          "name": "Weight",
+          "values": [
+            "250g",
+            "500g",
+            "1Kg"
+          ]
+        }
+      ],
+      "created_at": "2026-05-19T11:01:13.028Z",
+      "updated_at": "2026-05-19T11:01:13.028Z"
+    },
+    {
+      "id": "70",
+      "title": "Sadi Biscuit Snack Bhakhri | सादी बिस्किट स्नैक भाखरी",
+      "handle": "sadi-biscuit-snack-bhakhri",
+      "description": "<p data-start=\"2424\" data-end=\"2630\">A light, crispy, and pure Gujarati-style Sadi Bhakhri prepared with minimal spices to preserve its natural wheat flavour. Simple, clean, and perfect for pairing with pickle, curd, or tea.</p>\n<div class=\"khakhra-use-cases\">\n<div style=\"font-size: 20px; font-weight: 600; margin-bottom: 12px;\">How People Enjoy Sadi Biscuit Bhakhri Every Day</div>\n<ul style=\"list-style: none; padding-left: 0; margin: 0;\">\n<li style=\"display: flex; gap: 8px; margin-bottom: 8px;\">\n<span>•</span> <span><strong>Sadi Biscuit Bhakhri with every sabzi</strong> – Simple and wholesome, it pairs perfectly with light sabzis and vegetable dishes.</span>\n</li>\n<li style=\"display: flex; gap: 8px; margin-bottom: 8px;\">\n<span>•</span> <span><strong>Enjoy Sadi Biscuit Bhakhri with hot soup</strong> – Adds a crunchy, mild complement to warm soups for a comforting meal.</span>\n</li>\n<li style=\"display: flex; gap: 8px; margin-bottom: 8px;\">\n<span>•</span> <span><strong>Healthy crunch with Sadi Biscuit Bhakhri</strong> – Made with simple, nutritious ingredients for a guilt-free snack anytime.</span>\n</li>\n<li style=\"display: flex; gap: 8px; margin-bottom: 8px;\">\n<span>•</span> <span><strong>Sadi Biscuit Bhakhri Made for Every Chai break</strong> – Mild and crunchy, ideal for pairing with your daily tea.</span>\n</li>\n<li style=\"display: flex; gap: 8px; margin-bottom: 8px;\">\n<span>•</span> <span><strong>Sadi Biscuit Bhakhri The Classic Dal Pakwan Twist</strong> – Adds a simple, crunchy touch to dal and chutney combinations.</span>\n</li>\n<li style=\"display: flex; gap: 8px; margin-bottom: 8px;\">\n<span>•</span> <span><strong>Healthy Sadi Biscuit Bhakhri Pizza</strong> – Use as a plain base for mini pizzas topped with veggies or light spreads.</span>\n</li>\n</ul>\n</div>",
+      "variant_ids": [
+        188,
+        189,
+        190
+      ],
+      "image_url": "https://megaecomm.megascale.co.in/backend/media/1/220d773a59c62f2552931c813ef70d52.webp",
+      "availableForSale": true,
+      "priceRange": {
+        "minVariantPrice": {
+          "amount": "98.00",
+          "currencyCode": "INR"
+        },
+        "maxVariantPrice": {
+          "amount": "425.00",
+          "currencyCode": "INR"
+        }
+      },
+      "compareAtPrice": null,
+      "images": [
+        {
+          "url": "https://megaecomm.megascale.co.in/backend/media/1/220d773a59c62f2552931c813ef70d52.webp"
+        },
+        {
+          "url": "https://megaecomm.megascale.co.in/backend/media/1/ef4566ef691d2a5ff877e3b2d2473492.webp"
+        },
+        {
+          "url": "https://megaecomm.megascale.co.in/backend/media/1/71070fa16990d1e67534ea8bb6e77452.webp"
+        },
+        {
+          "url": "https://megaecomm.megascale.co.in/backend/media/1/11de0eba5439afdb5a77605d94babb1b.webp"
+        },
+        {
+          "url": "https://megaecomm.megascale.co.in/backend/media/1/d13350e2a4507a9964fe1d480a414449.webp"
+        },
+        {
+          "url": "https://megaecomm.megascale.co.in/backend/media/1/971617e812b086b53f113db0619b74e5.webp"
+        },
+        {
+          "url": "https://megaecomm.megascale.co.in/backend/media/1/48f423856074bdabd886bec16a1a1dff.webp"
+        },
+        {
+          "url": "https://megaecomm.megascale.co.in/backend/media/1/ed3397c00513c59be2763d44a5cb5133.webp"
+        },
+        {
+          "url": "https://megaecomm.megascale.co.in/backend/media/1/f8aed8cd29da9104e1ce3f39fb3bdcf0.webp"
+        }
+      ],
+      "avg_rating": 0,
+      "total_reviews": 0,
+      "inventory_quantity": 2994,
+      "variants": [
+        {
+          "id": 188,
+          "title": "200 gm / 5-6 pcs",
+          "availableForSale": true,
+          "sku": null,
+          "price": {
+            "amount": 98,
+            "currencyCode": "INR"
+          },
+          "compareAtPrice": {
+            "amount": 100,
+            "currencyCode": "INR"
+          },
+          "selectedOptions": [
+            {
+              "name": "Weight",
+              "value": "200 gm / 5-6 pcs"
+            }
+          ],
+          "image": null,
+          "weight": 200,
+          "weightUnit": "G",
+          "inventoryQuantity": 994
+        },
+        {
+          "id": 189,
+          "title": "600 gm / 16-17 pcs",
+          "availableForSale": true,
+          "sku": null,
+          "price": {
+            "amount": 282,
+            "currencyCode": "INR"
+          },
+          "compareAtPrice": {
+            "amount": 300,
+            "currencyCode": "INR"
+          },
+          "selectedOptions": [
+            {
+              "name": "Weight",
+              "value": "600 gm / 16-17 pcs"
+            }
+          ],
+          "image": null,
+          "weight": 600,
+          "weightUnit": "G",
+          "inventoryQuantity": 1000
+        },
+        {
+          "id": 190,
+          "title": "1 kg / 26-27 pcs",
+          "availableForSale": true,
+          "sku": null,
+          "price": {
+            "amount": 425,
+            "currencyCode": "INR"
+          },
+          "compareAtPrice": {
+            "amount": 500,
+            "currencyCode": "INR"
+          },
+          "selectedOptions": [
+            {
+              "name": "Weight",
+              "value": "1 kg / 26-27 pcs"
+            }
+          ],
+          "image": null,
+          "weight": 1,
+          "weightUnit": "KG",
+          "inventoryQuantity": 1000
+        }
+      ],
+      "options": [
+        {
+          "name": "Weight",
+          "values": [
+            "200 gm / 5-6 pcs",
+            "600 gm / 16-17 pcs",
+            "1 kg / 26-27 pcs"
+          ]
+        }
+      ],
+      "created_at": "2026-05-19T11:01:12.965Z",
+      "updated_at": "2026-05-19T11:01:12.965Z"
+    },
+    {
+      "id": "68",
+      "title": "Sada Khakhra | सादा खाखरा",
+      "handle": "crunchy-sada-khakhra",
+      "description": "<p>Our Sada Khakhra celebrates simplicity with clean flavours and light crispiness. Made from premium wheat and skillfully roasted, it is the perfect all-rounder snack — pair it with pickles, tea, spicy chutneys or enjoy it plain. Ideal for kids, elders and anyone who prefers a mild but tasty snack.</p>\n<p>Classic, simple and endlessly versatile.</p><br>\n<div class=\"khakhra-use-cases\">\n  <div style=\"font-size: 20px; font-weight: 600; margin-bottom: 12px;\">\n    How People Enjoy Sada Khakhra Every Day\n  </div>\n  <ul style=\"list-style: none; padding-left: 0; margin: 0;\">\n    <li style=\"display: flex; gap: 8px; margin-bottom: 8px;\">\n      <span>•</span>\n      <span><strong>Healthy Sada Khakhra Pizza</strong> – Crisp and simple base perfect for layering your favorite pizza toppings.</span>\n    </li>\n    <li style=\"display: flex; gap: 8px; margin-bottom: 8px;\">\n      <span>•</span>\n      <span><strong>Sada Khakhra Made for Every Chai Break</strong> – Light, classic, and perfect to enjoy with your daily chai.</span>\n    </li>\n    <li style=\"display: flex; gap: 8px; margin-bottom: 8px;\">\n      <span>•</span>\n      <span><strong>Sada Khakhra with Every Sabzi</strong> – Pairs wonderfully with vegetable curries, adding a simple, crunchy touch.</span>\n    </li>\n    <li style=\"display: flex; gap: 8px; margin-bottom: 8px;\">\n      <span>•</span>\n      <span><strong>Sada Khakhra: The Classic Dal Pakwan Twist</strong> – Adds a crisp, plain crunch to your traditional dal pakwan.</span>\n    </li>\n    <li style=\"display: flex; gap: 8px; margin-bottom: 8px;\">\n      <span>•</span>\n      <span><strong>Enjoy Sada Khakhra with Hot Soup</strong> – Crisp and mild, it complements soups beautifully.</span>\n    </li>\n    <li style=\"display: flex; gap: 8px; margin-bottom: 8px;\">\n      <span>•</span>\n      <span><strong>Healthy Crunch with Sada Khakhra</strong> – Simple, wholesome, and crunchy for a nutritious snack anytime.</span>\n    </li>\n  </ul>\n</div>\n",
+      "variant_ids": [
+        182,
+        183,
+        184
+      ],
+      "image_url": "https://megaecomm.megascale.co.in/backend/media/1/07a002ad84fb754bb977420a82909e64.webp",
+      "availableForSale": true,
+      "priceRange": {
+        "minVariantPrice": {
+          "amount": "82.00",
+          "currencyCode": "INR"
+        },
+        "maxVariantPrice": {
+          "amount": "357.00",
+          "currencyCode": "INR"
+        }
+      },
+      "compareAtPrice": null,
+      "images": [
+        {
+          "url": "https://megaecomm.megascale.co.in/backend/media/1/07a002ad84fb754bb977420a82909e64.webp"
+        },
+        {
+          "url": "https://megaecomm.megascale.co.in/backend/media/1/2d75581fc9f158bb5f889d6d2ba9a0ec.webp"
+        },
+        {
+          "url": "https://megaecomm.megascale.co.in/backend/media/1/d8c5c8509170152b59fb4939d2657318.webp"
+        },
+        {
+          "url": "https://megaecomm.megascale.co.in/backend/media/1/16846a64bb4fe6bed1b624a195d410b8.webp"
+        },
+        {
+          "url": "https://megaecomm.megascale.co.in/backend/media/1/c4dfa840151e3bdfdd840b9e7ade344e.webp"
+        },
+        {
+          "url": "https://megaecomm.megascale.co.in/backend/media/1/7e9b2202d337691be6d29ede6daee690.webp"
+        },
+        {
+          "url": "https://megaecomm.megascale.co.in/backend/media/1/ca81d254df32c4051561e9b079b2fa4e.webp"
+        },
+        {
+          "url": "https://megaecomm.megascale.co.in/backend/media/1/a13d63baa90a6a3a0b11039798f76aa6.webp"
+        },
+        {
+          "url": "https://megaecomm.megascale.co.in/backend/media/1/cc97fabb6a0e7c3c83105e83907a304e.webp"
+        },
+        {
+          "url": "https://megaecomm.megascale.co.in/backend/media/1/2871140e5575e88c8cc5c52e080b0ba4.webp"
+        },
+        {
+          "url": "https://megaecomm.megascale.co.in/backend/media/1/abf0de73844ad8025f48ac3e4532c164.webp"
+        }
+      ],
+      "avg_rating": 0,
+      "total_reviews": 0,
+      "inventory_quantity": 2973,
+      "variants": [
+        {
+          "id": 182,
+          "title": "200 gm / 7-8 pcs",
+          "availableForSale": true,
+          "sku": "KH-SADA-007",
+          "price": {
+            "amount": 82,
+            "currencyCode": "INR"
+          },
+          "compareAtPrice": {
+            "amount": 84,
+            "currencyCode": "INR"
+          },
+          "selectedOptions": [
+            {
+              "name": "Weight",
+              "value": "200 gm / 7-8 pcs"
+            }
+          ],
+          "image": null,
+          "weight": 200,
+          "weightUnit": "G",
+          "inventoryQuantity": 981
+        },
+        {
+          "id": 183,
+          "title": "600 gm / 22-23 pcs",
+          "availableForSale": true,
+          "sku": "KH-SADA-008",
+          "price": {
+            "amount": 237,
+            "currencyCode": "INR"
+          },
+          "compareAtPrice": {
+            "amount": 252,
+            "currencyCode": "INR"
+          },
+          "selectedOptions": [
+            {
+              "name": "Weight",
+              "value": "600 gm / 22-23 pcs"
+            }
+          ],
+          "image": null,
+          "weight": 600,
+          "weightUnit": "G",
+          "inventoryQuantity": 998
+        },
+        {
+          "id": 184,
+          "title": "1 kg / 37-38 pcs",
+          "availableForSale": true,
+          "sku": "KH-SADA-009",
+          "price": {
+            "amount": 357,
+            "currencyCode": "INR"
+          },
+          "compareAtPrice": {
+            "amount": 420,
+            "currencyCode": "INR"
+          },
+          "selectedOptions": [
+            {
+              "name": "Weight",
+              "value": "1 kg / 37-38 pcs"
+            }
+          ],
+          "image": null,
+          "weight": 1,
+          "weightUnit": "KG",
+          "inventoryQuantity": 994
+        }
+      ],
+      "options": [
+        {
+          "name": "Weight",
+          "values": [
+            "200 gm / 7-8 pcs",
+            "600 gm / 22-23 pcs",
+            "1 kg / 37-38 pcs"
+          ]
+        }
+      ],
+      "created_at": "2026-05-19T11:01:12.903Z",
+      "updated_at": "2026-05-19T11:01:12.903Z"
+    },
+    {
+      "id": "67",
+      "title": "Ragi Khakhra | रागी खाखरा | Made With Pure Ghee",
+      "handle": "ragi-khakhra-made-with-pure-ghee",
+      "description": "<p>Elevate your snacking with our ragi khakhra, a nutrient-dense creation blending finger millet with pure ghee. This wholesome khakhra delivers a distinctive nutty flavor profile while maintaining the signature crispness that defines quality craftsmanship. The addition of premium ghee enhances both texture and taste, creating a luxurious snacking experience that nourishes without indulgence. Ideal for those prioritizing nutritional value alongside authentic Indian flavors, ragi khakhra serves as a mindful choice for health-conscious households. Discover the perfect balance of ancient grains and culinary excellence in every satisfying bite.</p>\n<p><br></p>\n<div class=\"khakhra-use-cases\">\n<div style=\"font-size: 20px; font-weight: 600; margin-bottom: 12px;\">How People Enjoy Ragi Khakhra Every Day</div>\n<ul style=\"list-style: none; padding-left: 0; margin: 0;\">\n<li style=\"display: flex; gap: 8px; margin-bottom: 8px;\">\n<span>•</span> <span><strong>Healthy Ragi Khakhra Pizza</strong> – Nutty ragi base adds a wholesome, earthy twist to pizza-style snacks.</span>\n</li>\n<li style=\"display: flex; gap: 8px; margin-bottom: 8px;\">\n<span>•</span> <span><strong>Ragi Khakhra Made for Every Chai Break</strong> – Light, filling, and perfect to enjoy with your daily chai.</span>\n</li>\n<li style=\"display: flex; gap: 8px; margin-bottom: 8px;\">\n<span>•</span> <span><strong>Ragi Khakhra with Every Sabzi</strong> – Pairs beautifully with vegetable curries, adding a rich, grainy crunch.</span>\n</li>\n<li style=\"display: flex; gap: 8px; margin-bottom: 8px;\">\n<span>•</span> <span><strong>Ragi Khakhra: The Classic Dal Pakwan Twist</strong> – Adds a wholesome, nutritious crunch to traditional dal pakwan.</span>\n</li>\n<li style=\"display: flex; gap: 8px; margin-bottom: 8px;\">\n<span>•</span> <span><strong>Enjoy Ragi Khakhra with Hot Soup</strong> – Crisp and hearty, it complements warm soups perfectly.</span>\n</li>\n<li style=\"display: flex; gap: 8px; margin-bottom: 8px;\">\n<span>•</span> <span><strong>Healthy Crunch with Ragi Khakhra</strong> – Wholesome, crunchy, and nourishing for a healthy snack anytime.</span>\n</li>\n</ul>\n</div>",
+      "variant_ids": [
+        179,
+        180,
+        181
+      ],
+      "image_url": "https://megaecomm.megascale.co.in/backend/media/1/84d3a178a8ae05343097b56770517875.webp",
+      "availableForSale": true,
+      "priceRange": {
+        "minVariantPrice": {
+          "amount": "186.00",
+          "currencyCode": "INR"
+        },
+        "maxVariantPrice": {
+          "amount": "808.00",
+          "currencyCode": "INR"
+        }
+      },
+      "compareAtPrice": null,
+      "images": [
+        {
+          "url": "https://megaecomm.megascale.co.in/backend/media/1/84d3a178a8ae05343097b56770517875.webp"
+        },
+        {
+          "url": "https://megaecomm.megascale.co.in/backend/media/1/8c2921752a439ef344b042aac8107425.webp"
+        },
+        {
+          "url": "https://megaecomm.megascale.co.in/backend/media/1/5d5a18f33364a6905ea27863dbd103fe.webp"
+        },
+        {
+          "url": "https://megaecomm.megascale.co.in/backend/media/1/e1b77610e9657bec81c6859e9358e098.webp"
+        },
+        {
+          "url": "https://megaecomm.megascale.co.in/backend/media/1/48318042d4df719c0dd22e633fabba7d.webp"
+        },
+        {
+          "url": "https://megaecomm.megascale.co.in/backend/media/1/de42859ddd9e6891fba60bfa4fe1fe1a.webp"
+        },
+        {
+          "url": "https://megaecomm.megascale.co.in/backend/media/1/eb2e6f146635b22d365f0c8785258add.webp"
+        },
+        {
+          "url": "https://megaecomm.megascale.co.in/backend/media/1/6059f124c9047924b8f6832638fda5c9.webp"
+        },
+        {
+          "url": "https://megaecomm.megascale.co.in/backend/media/1/ffff3ec4da4f38188c88fdf323deb83e.webp"
+        }
+      ],
+      "avg_rating": 0,
+      "total_reviews": 0,
+      "inventory_quantity": 2990,
+      "variants": [
+        {
+          "id": 179,
+          "title": "200 gm / 7-8 pcs",
+          "availableForSale": true,
+          "sku": "KH-RAGI-GHEE-3",
+          "price": {
+            "amount": 186,
+            "currencyCode": "INR"
+          },
+          "compareAtPrice": {
+            "amount": 190,
+            "currencyCode": "INR"
+          },
+          "selectedOptions": [
+            {
+              "name": "Weight",
+              "value": "200 gm / 7-8 pcs"
+            }
+          ],
+          "image": null,
+          "weight": 200,
+          "weightUnit": "G",
+          "inventoryQuantity": 991
+        },
+        {
+          "id": 180,
+          "title": "600 gm / 22-23 pcs",
+          "availableForSale": true,
+          "sku": "KH-RAGI-GHEE-2",
+          "price": {
+            "amount": 536,
+            "currencyCode": "INR"
+          },
+          "compareAtPrice": {
+            "amount": 570,
+            "currencyCode": "INR"
+          },
+          "selectedOptions": [
+            {
+              "name": "Weight",
+              "value": "600 gm / 22-23 pcs"
+            }
+          ],
+          "image": null,
+          "weight": 600,
+          "weightUnit": "G",
+          "inventoryQuantity": 999
+        },
+        {
+          "id": 181,
+          "title": "1 kg / 37-38 pcs",
+          "availableForSale": true,
+          "sku": "KH-RAGI-GHEE-1",
+          "price": {
+            "amount": 808,
+            "currencyCode": "INR"
+          },
+          "compareAtPrice": {
+            "amount": 950,
+            "currencyCode": "INR"
+          },
+          "selectedOptions": [
+            {
+              "name": "Weight",
+              "value": "1 kg / 37-38 pcs"
+            }
+          ],
+          "image": null,
+          "weight": 1,
+          "weightUnit": "KG",
+          "inventoryQuantity": 1000
+        }
+      ],
+      "options": [
+        {
+          "name": "Weight",
+          "values": [
+            "200 gm / 7-8 pcs",
+            "600 gm / 22-23 pcs",
+            "1 kg / 37-38 pcs"
+          ]
+        }
+      ],
+      "created_at": "2026-05-19T11:01:12.864Z",
+      "updated_at": "2026-05-19T11:01:12.864Z"
+    },
+    {
+      "id": "66",
+      "title": "Ragi Khakhra | रागी खाखरा",
+      "handle": "healthy-ragi-khakhra",
+      "description": "<p>Made from calcium-rich ragi millet, this Khakhra is perfect for a wholesome, fibre-dense diet. With an earthy taste and crisp texture, it makes for an excellent breakfast or evening snack option, especially for health-conscious consumers.</p>\n<p>Nutritious, earthy and 100% guilt-free.</p>\n<p><br></p>\n<div class=\"khakhra-use-cases\">\n<div style=\"font-size: 20px; font-weight: 600; margin-bottom: 12px;\">How People Enjoy Ragi Khakhra Every Day</div>\n<ul style=\"list-style: none; padding-left: 0; margin: 0;\">\n<li style=\"display: flex; gap: 8px; margin-bottom: 8px;\">\n<span>•</span> <span><strong>Healthy Ragi Khakhra Pizza</strong> – Nutty ragi base adds a wholesome, earthy twist to pizza-style snacks.</span>\n</li>\n<li style=\"display: flex; gap: 8px; margin-bottom: 8px;\">\n<span>•</span> <span><strong>Ragi Khakhra Made for Every Chai Break</strong> – Light, filling, and perfect to enjoy with your daily chai.</span>\n</li>\n<li style=\"display: flex; gap: 8px; margin-bottom: 8px;\">\n<span>•</span> <span><strong>Ragi Khakhra with Every Sabzi</strong> – Pairs beautifully with vegetable curries, adding a rich, grainy crunch.</span>\n</li>\n<li style=\"display: flex; gap: 8px; margin-bottom: 8px;\">\n<span>•</span> <span><strong>Ragi Khakhra: The Classic Dal Pakwan Twist</strong> – Adds a wholesome, nutritious crunch to traditional dal pakwan.</span>\n</li>\n<li style=\"display: flex; gap: 8px; margin-bottom: 8px;\">\n<span>•</span> <span><strong>Enjoy Ragi Khakhra with Hot Soup</strong> – Crisp and hearty, it complements warm soups perfectly.</span>\n</li>\n<li style=\"display: flex; gap: 8px; margin-bottom: 8px;\">\n<span>•</span> <span><strong>Healthy Crunch with Ragi Khakhra</strong> – Wholesome, crunchy, and nourishing for a healthy snack anytime.</span>\n</li>\n</ul>\n</div>",
+      "variant_ids": [
+        176,
+        177,
+        178
+      ],
+      "image_url": "https://megaecomm.megascale.co.in/backend/media/1/61fc2f507042aa61a69a079b8c7c3817.webp",
+      "availableForSale": true,
+      "priceRange": {
+        "minVariantPrice": {
+          "amount": "127.00",
+          "currencyCode": "INR"
+        },
+        "maxVariantPrice": {
+          "amount": "553.00",
+          "currencyCode": "INR"
+        }
+      },
+      "compareAtPrice": null,
+      "images": [
+        {
+          "url": "https://megaecomm.megascale.co.in/backend/media/1/61fc2f507042aa61a69a079b8c7c3817.webp"
+        },
+        {
+          "url": "https://megaecomm.megascale.co.in/backend/media/1/b1a1717d166aaa06120f5964fa33fe39.webp"
+        },
+        {
+          "url": "https://megaecomm.megascale.co.in/backend/media/1/f007d399e9bedcc9f6f19c20fccfc9d1.webp"
+        },
+        {
+          "url": "https://megaecomm.megascale.co.in/backend/media/1/88f7c100d5991947a22c7c208c18bf9e.webp"
+        },
+        {
+          "url": "https://megaecomm.megascale.co.in/backend/media/1/82cc4cc1d7d8cc51e665e2aff97685bb.webp"
+        },
+        {
+          "url": "https://megaecomm.megascale.co.in/backend/media/1/57622dca4e3501f67de5eecedb8f8cad.webp"
+        },
+        {
+          "url": "https://megaecomm.megascale.co.in/backend/media/1/64109d7287fbebcc0886c6de9451789c.webp"
+        },
+        {
+          "url": "https://megaecomm.megascale.co.in/backend/media/1/bf5ce596709ca1994d32142c9f655540.webp"
+        },
+        {
+          "url": "https://megaecomm.megascale.co.in/backend/media/1/39a2985f9b02016990b2191e5830ee39.webp"
+        },
+        {
+          "url": "https://megaecomm.megascale.co.in/backend/media/1/2b7b295715de20eed11420bb050e0b13.webp"
+        },
+        {
+          "url": "https://megaecomm.megascale.co.in/backend/media/1/f24159fe65186958c44c28eda8745fe0.webp"
+        }
+      ],
+      "avg_rating": 0,
+      "total_reviews": 0,
+      "inventory_quantity": 2983,
+      "variants": [
+        {
+          "id": 176,
+          "title": "200 gm / 7-8 pcs",
+          "availableForSale": true,
+          "sku": "KH-RAGI-009",
+          "price": {
+            "amount": 127,
+            "currencyCode": "INR"
+          },
+          "compareAtPrice": {
+            "amount": 130,
+            "currencyCode": "INR"
+          },
+          "selectedOptions": [
+            {
+              "name": "Weight",
+              "value": "200 gm / 7-8 pcs"
+            }
+          ],
+          "image": null,
+          "weight": 200,
+          "weightUnit": "G",
+          "inventoryQuantity": 984
+        },
+        {
+          "id": 177,
+          "title": "600 gm / 22-23 pcs",
+          "availableForSale": true,
+          "sku": "KH-RAGI-0010",
+          "price": {
+            "amount": 367,
+            "currencyCode": "INR"
+          },
+          "compareAtPrice": {
+            "amount": 390,
+            "currencyCode": "INR"
+          },
+          "selectedOptions": [
+            {
+              "name": "Weight",
+              "value": "600 gm / 22-23 pcs"
+            }
+          ],
+          "image": null,
+          "weight": 600,
+          "weightUnit": "G",
+          "inventoryQuantity": 999
+        },
+        {
+          "id": 178,
+          "title": "1 kg / 37-38 pcs",
+          "availableForSale": true,
+          "sku": "KH-RAGI-0011",
+          "price": {
+            "amount": 553,
+            "currencyCode": "INR"
+          },
+          "compareAtPrice": {
+            "amount": 650,
+            "currencyCode": "INR"
+          },
+          "selectedOptions": [
+            {
+              "name": "Weight",
+              "value": "1 kg / 37-38 pcs"
+            }
+          ],
+          "image": null,
+          "weight": 1,
+          "weightUnit": "KG",
+          "inventoryQuantity": 1000
+        }
+      ],
+      "options": [
+        {
+          "name": "Weight",
+          "values": [
+            "200 gm / 7-8 pcs",
+            "600 gm / 22-23 pcs",
+            "1 kg / 37-38 pcs"
+          ]
+        }
+      ],
+      "created_at": "2026-05-19T11:01:12.830Z",
+      "updated_at": "2026-05-19T11:01:12.830Z"
+    },
+    {
+      "id": "65",
+      "title": "Pizza Khakhra | पिज्जा खाखरा | Made With Pure Ghee",
+      "handle": "pizza-khakhra-made-with-pure-ghee",
+      "description": "<p>Experience the artful marriage of heritage and innovation with our Pizza Khakhra, meticulously crafted with pure ghee. This premium snack features delicate, crispy layers infused with authentic pizza spices—oregano, basil, and sun-dried tomato essence—delivering an unexpected yet harmonious flavor profile. The pure ghee enrichment ensures a rich, golden finish while maintaining the traditional khakhra's signature crispness and digestibility. Ideal for discerning palates seeking sophisticated snacking, this khakhra transcends conventional taste boundaries, offering both culinary adventure and the nutritional benefits of ghee-based preparation. A refined choice for those who appreciate quality ingredients and distinctive flavors.</p>\n<p><br></p>\n<div class=\"khakhra-use-cases\">\n<div style=\"font-size: 20px; font-weight: 600; margin-bottom: 12px;\">How People Enjoy Pizza Khakhra Every Day</div>\n<ul style=\"list-style: none; padding-left: 0; margin: 0;\">\n<li style=\"display: flex; gap: 8px; margin-bottom: 8px;\">\n<span>•</span> <span><strong>Healthy Pizza Khakhra Pizza</strong> – Crispy, cheesy base adds a delightful Italian twist to your pizza toppings.</span>\n</li>\n<li style=\"display: flex; gap: 8px; margin-bottom: 8px;\">\n<span>•</span> <span><strong>Pizza Khakhra Made for Every Chai Break</strong> – Light, flavorful, and perfect to enjoy as a quick snack with chai or coffee.</span>\n</li>\n<li style=\"display: flex; gap: 8px; margin-bottom: 8px;\">\n<span>•</span> <span><strong>Pizza Khakhra with Every Sabzi</strong> – Pairs well with vegetable toppings or stir-fries for a crunchy, cheesy accompaniment.</span>\n</li>\n<li style=\"display: flex; gap: 8px; margin-bottom: 8px;\">\n<span>•</span> <span><strong>Pizza Khakhra: The Classic Dal Pakwan Twist</strong> – Adds a cheesy, crunchy layer to your traditional dal pakwan.</span>\n</li>\n<li style=\"display: flex; gap: 8px; margin-bottom: 8px;\">\n<span>•</span> <span><strong>Enjoy Pizza Khakhra with Hot Soup</strong> – Crisp and cheesy, it complements warm soups beautifully.</span>\n</li>\n<li style=\"display: flex; gap: 8px; margin-bottom: 8px;\">\n<span>•</span> <span><strong>Healthy Crunch with Pizza Khakhra</strong> – Crunchy, cheesy, and perfect for a flavorful snack anytime.</span>\n</li>\n</ul>\n</div>",
+      "variant_ids": [
+        173,
+        174,
+        175
+      ],
+      "image_url": "https://megaecomm.megascale.co.in/backend/media/1/e21b7d23f2a90a29b2b9b2ea9565964c.webp",
+      "availableForSale": true,
+      "priceRange": {
+        "minVariantPrice": {
+          "amount": "176.00",
+          "currencyCode": "INR"
+        },
+        "maxVariantPrice": {
+          "amount": "765.00",
+          "currencyCode": "INR"
+        }
+      },
+      "compareAtPrice": null,
+      "images": [
+        {
+          "url": "https://megaecomm.megascale.co.in/backend/media/1/e21b7d23f2a90a29b2b9b2ea9565964c.webp"
+        },
+        {
+          "url": "https://megaecomm.megascale.co.in/backend/media/1/dcd687b5ccb7dfa2a00491dc8ea9abcb.webp"
+        },
+        {
+          "url": "https://megaecomm.megascale.co.in/backend/media/1/21574c7a1a91e79262ec7e05c2b753da.webp"
+        },
+        {
+          "url": "https://megaecomm.megascale.co.in/backend/media/1/7916599389c9ee536ed146e0d9a06cf0.webp"
+        },
+        {
+          "url": "https://megaecomm.megascale.co.in/backend/media/1/0afebc1e655596bafb05bdef45465c4a.webp"
+        },
+        {
+          "url": "https://megaecomm.megascale.co.in/backend/media/1/222dfd21f04f16cee2fa081c4a0dde09.webp"
+        },
+        {
+          "url": "https://megaecomm.megascale.co.in/backend/media/1/63335f91588cbf7e8eb73a894213be03.webp"
+        },
+        {
+          "url": "https://megaecomm.megascale.co.in/backend/media/1/d0396caa97f43e708f9b28ae2dfcf1fe.webp"
+        },
+        {
+          "url": "https://megaecomm.megascale.co.in/backend/media/1/40185a863ebfbb42926a8f5ba69d07b8.webp"
+        }
+      ],
+      "avg_rating": 0,
+      "total_reviews": 0,
+      "inventory_quantity": 2977,
+      "variants": [
+        {
+          "id": 173,
+          "title": "200 gm / 7-8 pcs",
+          "availableForSale": true,
+          "sku": "KH-PIZZA-GHEE-2",
+          "price": {
+            "amount": 176,
+            "currencyCode": "INR"
+          },
+          "compareAtPrice": {
+            "amount": 180,
+            "currencyCode": "INR"
+          },
+          "selectedOptions": [
+            {
+              "name": "Weight",
+              "value": "200 gm / 7-8 pcs"
+            }
+          ],
+          "image": null,
+          "weight": 200,
+          "weightUnit": "G",
+          "inventoryQuantity": 979
+        },
+        {
+          "id": 174,
+          "title": "600 gm / 22-23 pcs",
+          "availableForSale": true,
+          "sku": "KH-PIZZA-GHEE-1",
+          "price": {
+            "amount": 508,
+            "currencyCode": "INR"
+          },
+          "compareAtPrice": {
+            "amount": 540,
+            "currencyCode": "INR"
+          },
+          "selectedOptions": [
+            {
+              "name": "Weight",
+              "value": "600 gm / 22-23 pcs"
+            }
+          ],
+          "image": null,
+          "weight": 600,
+          "weightUnit": "G",
+          "inventoryQuantity": 998
+        },
+        {
+          "id": 175,
+          "title": "1 kg / 37-38 pcs",
+          "availableForSale": true,
+          "sku": "KH-PIZZA-GHEE-3",
+          "price": {
+            "amount": 765,
+            "currencyCode": "INR"
+          },
+          "compareAtPrice": {
+            "amount": 900,
+            "currencyCode": "INR"
+          },
+          "selectedOptions": [
+            {
+              "name": "Weight",
+              "value": "1 kg / 37-38 pcs"
+            }
+          ],
+          "image": null,
+          "weight": 1,
+          "weightUnit": "KG",
+          "inventoryQuantity": 1000
+        }
+      ],
+      "options": [
+        {
+          "name": "Weight",
+          "values": [
+            "200 gm / 7-8 pcs",
+            "600 gm / 22-23 pcs",
+            "1 kg / 37-38 pcs"
+          ]
+        }
+      ],
+      "created_at": "2026-05-19T11:01:12.794Z",
+      "updated_at": "2026-05-19T11:01:12.794Z"
+    },
+    {
+      "id": "64",
+      "title": "Pizza Khakhra | पिज्जा खाखरा",
+      "handle": "pizza-khakhra",
+      "description": "<p>Pizza lovers will enjoy this Italian-inspired Khakhra made with oregano, cheese seasoning and herbs. Kids absolutely love it, and it makes snacking more exciting.</p>\n<p>Fun fusion with cheesy, herby pizza flavours.</p><br><div class=\"khakhra-use-cases\">\n  <div style=\"font-size: 20px; font-weight: 600; margin-bottom: 12px;\">\n    How People Enjoy Pizza Khakhra Every Day\n  </div>\n  <ul style=\"list-style: none; padding-left: 0; margin: 0;\">\n    <li style=\"display: flex; gap: 8px; margin-bottom: 8px;\">\n      <span>•</span>\n      <span><strong>Healthy Pizza Khakhra Pizza</strong> – Crispy, cheesy base adds a delightful Italian twist to your pizza toppings.</span>\n    </li>\n    <li style=\"display: flex; gap: 8px; margin-bottom: 8px;\">\n      <span>•</span>\n      <span><strong>Pizza Khakhra Made for Every Chai Break</strong> – Light, flavorful, and perfect to enjoy as a quick snack with chai or coffee.</span>\n    </li>\n    <li style=\"display: flex; gap: 8px; margin-bottom: 8px;\">\n      <span>•</span>\n      <span><strong>Pizza Khakhra with Every Sabzi</strong> – Pairs well with vegetable toppings or stir-fries for a crunchy, cheesy accompaniment.</span>\n    </li>\n    <li style=\"display: flex; gap: 8px; margin-bottom: 8px;\">\n      <span>•</span>\n      <span><strong>Pizza Khakhra: The Classic Dal Pakwan Twist</strong> – Adds a cheesy, crunchy layer to your traditional dal pakwan.</span>\n    </li>\n    <li style=\"display: flex; gap: 8px; margin-bottom: 8px;\">\n      <span>•</span>\n      <span><strong>Enjoy Pizza Khakhra with Hot Soup</strong> – Crisp and cheesy, it complements warm soups beautifully.</span>\n    </li>\n    <li style=\"display: flex; gap: 8px; margin-bottom: 8px;\">\n      <span>•</span>\n      <span><strong>Healthy Crunch with Pizza Khakhra</strong> – Crunchy, cheesy, and perfect for a flavorful snack anytime.</span>\n    </li>\n  </ul>\n</div>\n",
+      "variant_ids": [
+        170,
+        171,
+        172
+      ],
+      "image_url": "https://megaecomm.megascale.co.in/backend/media/1/afb989fda12bc2f3cfdf19b6cedc8d16.webp",
+      "availableForSale": true,
+      "priceRange": {
+        "minVariantPrice": {
+          "amount": "118.00",
+          "currencyCode": "INR"
+        },
+        "maxVariantPrice": {
+          "amount": "510.00",
+          "currencyCode": "INR"
+        }
+      },
+      "compareAtPrice": null,
+      "images": [
+        {
+          "url": "https://megaecomm.megascale.co.in/backend/media/1/afb989fda12bc2f3cfdf19b6cedc8d16.webp"
+        },
+        {
+          "url": "https://megaecomm.megascale.co.in/backend/media/1/69f895c5f19c4d1da19fc2a143bca05f.webp"
+        },
+        {
+          "url": "https://megaecomm.megascale.co.in/backend/media/1/aa11dd71f6238da57a36096019b49ba5.webp"
+        },
+        {
+          "url": "https://megaecomm.megascale.co.in/backend/media/1/598ebc665f0b801f792d332c976f2c22.webp"
+        },
+        {
+          "url": "https://megaecomm.megascale.co.in/backend/media/1/e0b1838721a48dd105387deeb25d7a40.webp"
+        },
+        {
+          "url": "https://megaecomm.megascale.co.in/backend/media/1/0a83fce8310b3d207dc24036f1220f89.webp"
+        },
+        {
+          "url": "https://megaecomm.megascale.co.in/backend/media/1/fb08ecd3e628a6413c5dbbaf49db2915.webp"
+        },
+        {
+          "url": "https://megaecomm.megascale.co.in/backend/media/1/4fb20662057722354f59e43babfafd7a.webp"
+        },
+        {
+          "url": "https://megaecomm.megascale.co.in/backend/media/1/da6a047d54359eaf30fc28164ac9266a.webp"
+        },
+        {
+          "url": "https://megaecomm.megascale.co.in/backend/media/1/65f171d51a3e479ca53f4dba41a39c28.webp"
+        },
+        {
+          "url": "https://megaecomm.megascale.co.in/backend/media/1/afdff3dd4c4e1bb990f7eb30621555d8.webp"
+        }
+      ],
+      "avg_rating": 0,
+      "total_reviews": 0,
+      "inventory_quantity": 2981,
+      "variants": [
+        {
+          "id": 170,
+          "title": "200 gm / 7-8 pcs",
+          "availableForSale": true,
+          "sku": "KH-PIZZA-018",
+          "price": {
+            "amount": 118,
+            "currencyCode": "INR"
+          },
+          "compareAtPrice": {
+            "amount": 120,
+            "currencyCode": "INR"
+          },
+          "selectedOptions": [
+            {
+              "name": "Weight",
+              "value": "200 gm / 7-8 pcs"
+            }
+          ],
+          "image": null,
+          "weight": 200,
+          "weightUnit": "G",
+          "inventoryQuantity": 981
+        },
+        {
+          "id": 171,
+          "title": "600 gm / 22-23 pcs",
+          "availableForSale": true,
+          "sku": "KH-PIZZA-019",
+          "price": {
+            "amount": 338,
+            "currencyCode": "INR"
+          },
+          "compareAtPrice": {
+            "amount": 360,
+            "currencyCode": "INR"
+          },
+          "selectedOptions": [
+            {
+              "name": "Weight",
+              "value": "600 gm / 22-23 pcs"
+            }
+          ],
+          "image": null,
+          "weight": 600,
+          "weightUnit": "G",
+          "inventoryQuantity": 1000
+        },
+        {
+          "id": 172,
+          "title": "1 kg / 37-38 pcs",
+          "availableForSale": true,
+          "sku": "KH-PIZZA-020",
+          "price": {
+            "amount": 510,
+            "currencyCode": "INR"
+          },
+          "compareAtPrice": {
+            "amount": 600,
+            "currencyCode": "INR"
+          },
+          "selectedOptions": [
+            {
+              "name": "Weight",
+              "value": "1 kg / 37-38 pcs"
+            }
+          ],
+          "image": null,
+          "weight": 1,
+          "weightUnit": "KG",
+          "inventoryQuantity": 1000
+        }
+      ],
+      "options": [
+        {
+          "name": "Weight",
+          "values": [
+            "200 gm / 7-8 pcs",
+            "600 gm / 22-23 pcs",
+            "1 kg / 37-38 pcs"
+          ]
+        }
+      ],
+      "created_at": "2026-05-19T11:01:12.731Z",
+      "updated_at": "2026-05-19T11:01:12.731Z"
+    },
+    {
+      "id": "63",
+      "title": "Phudina Khakhra | फुदिना खाखरा | Made With Pure Ghee",
+      "handle": "phudina-khakhra-made-with-pure-ghee",
+      "description": "<p>Savor the refreshing allure of our Phudina Khakhra, meticulously formulated with pure ghee for an exceptional sensory experience. This distinctive snack infuses the cooling, aromatic essence of fresh mint—phudina—into crispy, paper-thin layers, creating an invigorating flavor profile that awakens the palate. The pure ghee base ensures a luxurious texture while preserving the khakhra's celebrated lightness and ease of digestion. Perfect for those seeking herbal sophistication in their snacking repertoire, this khakhra delivers a harmonious balance between traditional preparation and contemporary taste preferences. An ideal companion for afternoon tea or as a palate-cleansing treat, it represents the pinnacle of artisanal khakhra craftsmanship with botanical refinement.</p>\n<p><br></p>\n<div class=\"khakhra-use-cases\">\n<div style=\"font-size: 20px; font-weight: 600; margin-bottom: 12px;\">How People Enjoy Phudina Khakhra Every Day</div>\n<ul style=\"list-style: none; padding-left: 0; margin: 0;\">\n<li style=\"display: flex; gap: 8px; margin-bottom: 8px;\">\n<span>•</span> <span><strong>Healthy Phudina Khakhra Pizza</strong> – Fresh minty base adds a refreshing, flavorful twist to pizza-style snacks.</span>\n</li>\n<li style=\"display: flex; gap: 8px; margin-bottom: 8px;\">\n<span>•</span> <span><strong>Phudina Khakhra Made for Every Chai Break</strong> – Light, refreshing, and perfect to balance your daily chai.</span>\n</li>\n<li style=\"display: flex; gap: 8px; margin-bottom: 8px;\">\n<span>•</span> <span><strong>Phudina Khakhra with Every Sabzi</strong> – Adds a cool, herby crunch alongside vegetable curries.</span>\n</li>\n<li style=\"display: flex; gap: 8px; margin-bottom: 8px;\">\n<span>•</span> <span><strong>Phudina Khakhra: The Classic Dal Pakwan Twist</strong> – Brings a refreshing minty crunch to traditional dal pakwan.</span>\n</li>\n<li style=\"display: flex; gap: 8px; margin-bottom: 8px;\">\n<span>•</span> <span><strong>Enjoy Phudina Khakhra with Hot Soup</strong> – Crisp and refreshing, creating a pleasant contrast with warm soups.</span>\n</li>\n<li style=\"display: flex; gap: 8px; margin-bottom: 8px;\">\n<span>•</span> <span><strong>Healthy Crunch with Phudina Khakhra</strong> – Fresh, minty, and crunchy for a light snack anytime.</span>\n</li>\n</ul>\n</div>",
+      "variant_ids": [
+        167,
+        168,
+        169
+      ],
+      "image_url": "https://megaecomm.megascale.co.in/backend/media/1/e2ffa6add6f6a402f0cff0dbce93a8f0.webp",
+      "availableForSale": true,
+      "priceRange": {
+        "minVariantPrice": {
+          "amount": "176.00",
+          "currencyCode": "INR"
+        },
+        "maxVariantPrice": {
+          "amount": "765.00",
+          "currencyCode": "INR"
+        }
+      },
+      "compareAtPrice": null,
+      "images": [
+        {
+          "url": "https://megaecomm.megascale.co.in/backend/media/1/e2ffa6add6f6a402f0cff0dbce93a8f0.webp"
+        },
+        {
+          "url": "https://megaecomm.megascale.co.in/backend/media/1/ea1b05e152c803d8764a9e7f2ae9fe68.webp"
+        },
+        {
+          "url": "https://megaecomm.megascale.co.in/backend/media/1/3baf89c4ef566e1c12633713e58df2a0.webp"
+        },
+        {
+          "url": "https://megaecomm.megascale.co.in/backend/media/1/ca53c274e4c3fda7aa92b90d960db64a.webp"
+        },
+        {
+          "url": "https://megaecomm.megascale.co.in/backend/media/1/69b6e1eb4957ea1e3c6edcd4615c1d20.webp"
+        },
+        {
+          "url": "https://megaecomm.megascale.co.in/backend/media/1/3961f8eb1e9ef8d3e5a97613f7b9d3ec.webp"
+        },
+        {
+          "url": "https://megaecomm.megascale.co.in/backend/media/1/d7663bc911983d2c2d1bcc11b728bf56.webp"
+        },
+        {
+          "url": "https://megaecomm.megascale.co.in/backend/media/1/eae1a77191403dc46640af8836c11b74.webp"
+        },
+        {
+          "url": "https://megaecomm.megascale.co.in/backend/media/1/1620194130841583008f9721f92ef1a7.webp"
+        }
+      ],
+      "avg_rating": 0,
+      "total_reviews": 0,
+      "inventory_quantity": 2991,
+      "variants": [
+        {
+          "id": 167,
+          "title": "200 gm / 7-8 pcs",
+          "availableForSale": true,
+          "sku": "KH-PHUDINA-GHEE-3",
+          "price": {
+            "amount": 176,
+            "currencyCode": "INR"
+          },
+          "compareAtPrice": {
+            "amount": 180,
+            "currencyCode": "INR"
+          },
+          "selectedOptions": [
+            {
+              "name": "Weight",
+              "value": "200 gm / 7-8 pcs"
+            }
+          ],
+          "image": null,
+          "weight": 200,
+          "weightUnit": "G",
+          "inventoryQuantity": 991
+        },
+        {
+          "id": 168,
+          "title": "600 gm / 22-23 pcs",
+          "availableForSale": true,
+          "sku": "KH-PHUDINA-GHEE-2",
+          "price": {
+            "amount": 508,
+            "currencyCode": "INR"
+          },
+          "compareAtPrice": {
+            "amount": 540,
+            "currencyCode": "INR"
+          },
+          "selectedOptions": [
+            {
+              "name": "Weight",
+              "value": "600 gm / 22-23 pcs"
+            }
+          ],
+          "image": null,
+          "weight": 600,
+          "weightUnit": "G",
+          "inventoryQuantity": 1000
+        },
+        {
+          "id": 169,
+          "title": "1 kg / 37-38 pcs",
+          "availableForSale": true,
+          "sku": "KH-PHUDINA-GHEE-1",
+          "price": {
+            "amount": 765,
+            "currencyCode": "INR"
+          },
+          "compareAtPrice": {
+            "amount": 900,
+            "currencyCode": "INR"
+          },
+          "selectedOptions": [
+            {
+              "name": "Weight",
+              "value": "1 kg / 37-38 pcs"
+            }
+          ],
+          "image": null,
+          "weight": 1,
+          "weightUnit": "KG",
+          "inventoryQuantity": 1000
+        }
+      ],
+      "options": [
+        {
+          "name": "Weight",
+          "values": [
+            "200 gm / 7-8 pcs",
+            "600 gm / 22-23 pcs",
+            "1 kg / 37-38 pcs"
+          ]
+        }
+      ],
+      "created_at": "2026-05-19T11:01:12.666Z",
+      "updated_at": "2026-05-19T11:01:12.666Z"
+    },
+    {
+      "id": "61",
+      "title": "Panipuri Khakhra | पानीपूरी खाखरा | Made With Pure Ghee",
+      "handle": "panipuri-khakhra-made-with-pure-ghee",
+      "description": "<p>Panipuri Khakhra captures the vibrant essence of India's beloved street snack in convenient, portable form. Infused with the tangy and spiced flavors characteristic of panipuri, this ghee-enriched khakhra delivers an explosion of taste with every crisp bite. The blend of aromatic spices, subtle tanginess, and savory notes creates a multi-dimensional snacking experience that appeals to adventurous palates. Crafted with pure ghee, it achieves an exceptional crunch while maintaining the nutritional integrity of traditional preparation methods. Whether enjoyed as an evening accompaniment to chai or shared during gatherings, this khakhra transforms a classic street food into an elegant, shelf-stable indulgence. The perfect choice for those seeking authentic Indian flavors with the convenience of a ready-to-eat snack.</p>\n<p>Inspired by India’s favourite chaat...</p>\n\n<br><div class=\"khakhra-use-cases\">\n  <div style=\"font-size: 20px; font-weight: 600; margin-bottom: 12px;\">\n    How People Enjoy Panipuri Khakhra Every Day\n  </div>\n  <ul style=\"list-style: none; padding-left: 0; margin: 0;\">\n    <li style=\"display: flex; gap: 8px; margin-bottom: 8px;\">\n      <span>•</span>\n      <span><strong>Healthy Panipuri Khakhra Pizza</strong> – Tangy, chatpata base adds a fun street-food twist to pizza-style snacks.</span>\n    </li>\n    <li style=\"display: flex; gap: 8px; margin-bottom: 8px;\">\n      <span>•</span>\n      <span><strong>Panipuri Khakhra Made for Every Chai Break</strong> – Spicy, tangy, and crunchy, perfect to spice up your chai time.</span>\n    </li>\n    <li style=\"display: flex; gap: 8px; margin-bottom: 8px;\">\n      <span>•</span>\n      <span><strong>Panipuri Khakhra with Every Sabzi</strong> – Adds a bold, chatpata crunch alongside everyday vegetable dishes.</span>\n    </li>\n    <li style=\"display: flex; gap: 8px; margin-bottom: 8px;\">\n      <span>•</span>\n      <span><strong>Panipuri Khakhra: The Classic Dal Pakwan Twist</strong> – Brings a tangy, street-style crunch to traditional dal pakwan.</span>\n    </li>\n    <li style=\"display: flex; gap: 8px; margin-bottom: 8px;\">\n      <span>•</span>\n      <span><strong>Enjoy Panipuri Khakhra with Hot Soup</strong> – Crisp and flavorful, adding a zingy contrast to warm soups.</span>\n    </li>\n    <li style=\"display: flex; gap: 8px; margin-bottom: 8px;\">\n      <span>•</span>\n      <span><strong>Healthy Crunch with Panipuri Khakhra</strong> – Chatpata, crunchy, and perfect for a fun snack anytime.</span>\n    </li>\n  </ul>\n</div>\n",
+      "variant_ids": [
+        161,
+        162,
+        163
+      ],
+      "image_url": "https://megaecomm.megascale.co.in/backend/media/1/43a0b1edab0548fa4a43826e5acd31ad.webp",
+      "availableForSale": true,
+      "priceRange": {
+        "minVariantPrice": {
+          "amount": "171.00",
+          "currencyCode": "INR"
+        },
+        "maxVariantPrice": {
+          "amount": "740.00",
+          "currencyCode": "INR"
+        }
+      },
+      "compareAtPrice": null,
+      "images": [
+        {
+          "url": "https://megaecomm.megascale.co.in/backend/media/1/43a0b1edab0548fa4a43826e5acd31ad.webp"
+        },
+        {
+          "url": "https://megaecomm.megascale.co.in/backend/media/1/6aaca801565b38dca3b9b2e1d9998b2f.webp"
+        },
+        {
+          "url": "https://megaecomm.megascale.co.in/backend/media/1/25a725ae51037cb01e9b069a9772d080.webp"
+        },
+        {
+          "url": "https://megaecomm.megascale.co.in/backend/media/1/906e6c9e1761c816bbf3e554c6b07018.webp"
+        },
+        {
+          "url": "https://megaecomm.megascale.co.in/backend/media/1/ef3538f7d32b1bc68f3be43566d64948.webp"
+        },
+        {
+          "url": "https://megaecomm.megascale.co.in/backend/media/1/7a2c357e80967a0232eb449b6bc1193f.webp"
+        },
+        {
+          "url": "https://megaecomm.megascale.co.in/backend/media/1/22ffeac60c0e3e7bc92c2e18b829162f.webp"
+        },
+        {
+          "url": "https://megaecomm.megascale.co.in/backend/media/1/755a080933e05191b90fe36d8209ccdd.webp"
+        },
+        {
+          "url": "https://megaecomm.megascale.co.in/backend/media/1/dbe0210089f0ef570a16ff79c4046938.webp"
+        }
+      ],
+      "avg_rating": 0,
+      "total_reviews": 0,
+      "inventory_quantity": 2979,
+      "variants": [
+        {
+          "id": 161,
+          "title": "200 gm / 7-8 pcs",
+          "availableForSale": true,
+          "sku": "KH-PANIPURI-GHEE-3",
+          "price": {
+            "amount": 171,
+            "currencyCode": "INR"
+          },
+          "compareAtPrice": {
+            "amount": 174,
+            "currencyCode": "INR"
+          },
+          "selectedOptions": [
+            {
+              "name": "Weight",
+              "value": "200 gm / 7-8 pcs"
+            }
+          ],
+          "image": null,
+          "weight": 200,
+          "weightUnit": "G",
+          "inventoryQuantity": 979
+        },
+        {
+          "id": 162,
+          "title": "600 gm / 22-23 pcs",
+          "availableForSale": true,
+          "sku": "KH-PANIPURI-GHEE-2",
+          "price": {
+            "amount": 491,
+            "currencyCode": "INR"
+          },
+          "compareAtPrice": {
+            "amount": 522,
+            "currencyCode": "INR"
+          },
+          "selectedOptions": [
+            {
+              "name": "Weight",
+              "value": "600 gm / 22-23 pcs"
+            }
+          ],
+          "image": null,
+          "weight": 600,
+          "weightUnit": "G",
+          "inventoryQuantity": 1000
+        },
+        {
+          "id": 163,
+          "title": "1 kg / 37-38 pcs",
+          "availableForSale": true,
+          "sku": "KH-PANIPURI-GHEE-1",
+          "price": {
+            "amount": 740,
+            "currencyCode": "INR"
+          },
+          "compareAtPrice": {
+            "amount": 870,
+            "currencyCode": "INR"
+          },
+          "selectedOptions": [
+            {
+              "name": "Weight",
+              "value": "1 kg / 37-38 pcs"
+            }
+          ],
+          "image": null,
+          "weight": 1,
+          "weightUnit": "KG",
+          "inventoryQuantity": 1000
+        }
+      ],
+      "options": [
+        {
+          "name": "Weight",
+          "values": [
+            "200 gm / 7-8 pcs",
+            "600 gm / 22-23 pcs",
+            "1 kg / 37-38 pcs"
+          ]
+        }
+      ],
+      "created_at": "2026-05-19T11:01:12.531Z",
+      "updated_at": "2026-05-19T11:01:12.531Z"
+    }
+  ]
+}
