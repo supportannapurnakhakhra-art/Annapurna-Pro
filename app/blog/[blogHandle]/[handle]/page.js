@@ -3,7 +3,7 @@ import { getBlogByHandle } from "@/lib/shopify";
 import shopServices from "@/lib/api/services";
 import Breadcrumbs from "@/components/Breadcrumbs";
 import RelatedArticlesSlider from "@/components/RelatedArticlesSlider";
-import { getCleanExcerpt } from "@/lib/blogUtils";
+import { getCleanExcerpt } from "@/lib/BlogUtils";
 
 async function resolveArticleData(blogHandle, handle) {
   let article = null;

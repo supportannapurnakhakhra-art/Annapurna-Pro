@@ -2,7 +2,7 @@ import Link from "next/link";
 import { getBlogs } from "@/lib/shopify";
 import shopServices from "@/lib/api/services";
 import Breadcrumbs from "@/components/Breadcrumbs";
-import { getCleanExcerpt } from "@/lib/blogUtils";
+import { getCleanExcerpt } from "@/lib/BlogUtils";
 
 export const metadata = {
   title: "Khakhra Parampara | Annapurna Khakhra",

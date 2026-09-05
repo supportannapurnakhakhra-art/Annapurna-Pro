@@ -1,7 +1,7 @@
 import Link from "next/link";
 import shopServices from "@/lib/api/services";
 import Breadcrumbs from "@/components/Breadcrumbs";
-import { getCleanExcerpt } from "@/lib/blogUtils";
+import { getCleanExcerpt } from "@/lib/BlogUtils";
 
 export async function generateMetadata({ params }) {
   const { blogHandle } = await params;
