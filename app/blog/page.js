@@ -1,8 +1,8 @@
-// app/blog/page.js
 import Link from "next/link";
 import { getBlogs } from "@/lib/shopify";
 import shopServices from "@/lib/api/services";
 import Breadcrumbs from "@/components/Breadcrumbs";
+import { getCleanExcerpt } from "@/lib/blogUtils";
 
 export const metadata = {
   title: "Khakhra Parampara | Annapurna Khakhra",
@@ -34,7 +34,7 @@ export default async function BlogPage() {
             title: post.title || "Blog Post",
             handle: post.handle || String(post.id || pIdx),
             blogHandle: bHandle,
-            excerpt: post.excerpt || post.summary || post.description || "",
+            excerpt: getCleanExcerpt(post),
             publishedAt: post.published_at || post.publishedAt || post.created_at || null,
             image: { url: imgUrl }
           });
@@ -54,6 +54,7 @@ export default async function BlogPage() {
           (blog.articles || []).map(article => ({
             ...article,
             blogHandle: blog.handle || "news",
+            excerpt: getCleanExcerpt(article),
           }))
         );
       }
@@ -105,10 +106,9 @@ export default async function BlogPage() {
 
               <h2 className="text-xl font-bold text-amber-900 mb-3">{post.title}</h2>
               {post.excerpt && (
-                <p
-                  className="text-amber-700 mb-4 line-clamp-3"
-                  dangerouslySetInnerHTML={{ __html: post.excerpt }}
-                />
+                <p className="text-amber-700 mb-4 line-clamp-3">
+                  {post.excerpt}
+                </p>
               )}
 
               <Link

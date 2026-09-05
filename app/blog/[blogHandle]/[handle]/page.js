@@ -3,6 +3,7 @@ import { getBlogByHandle } from "@/lib/shopify";
 import shopServices from "@/lib/api/services";
 import Breadcrumbs from "@/components/Breadcrumbs";
 import RelatedArticlesSlider from "@/components/RelatedArticlesSlider";
+import { getCleanExcerpt } from "@/lib/blogUtils";
 
 async function resolveArticleData(blogHandle, handle) {
   let article = null;
@@ -21,7 +22,7 @@ async function resolveArticleData(blogHandle, handle) {
         title: postDetail.title,
         handle: postDetail.handle || handle,
         blogHandle: blogHandle || "news",
-        excerpt: postDetail.excerpt || postDetail.seo_description || "",
+        excerpt: getCleanExcerpt(postDetail),
         contentHtml: postDetail.content || postDetail.contentHtml || "",
         publishedAt: postDetail.published_at || postDetail.publishedAt || postDetail.created_at || new Date().toISOString(),
         image: { url: imgUrl }
@@ -41,7 +42,7 @@ async function resolveArticleData(blogHandle, handle) {
           title: p.title || "Blog Post",
           handle: p.handle || String(p.id || idx),
           blogHandle: blogHandle || "news",
-          excerpt: p.excerpt || "",
+          excerpt: getCleanExcerpt(p),
           contentHtml: p.content || "",
           publishedAt: p.published_at || p.publishedAt || p.created_at || new Date().toISOString(),
           image: { url: img }
@@ -61,7 +62,10 @@ async function resolveArticleData(blogHandle, handle) {
       const blog = await getBlogByHandle(blogHandle);
       if (blog && blog.articles) {
         article = blog.articles.find(a => a.handle === handle);
-        articles = blog.articles;
+        articles = blog.articles.map(a => ({
+          ...a,
+          excerpt: getCleanExcerpt(a),
+        }));
       }
     } catch (err) {
       console.error("Shopify blog detail fallback failed:", err);
@@ -85,7 +89,7 @@ export async function generateMetadata({ params }) {
   return {
     title: `${article.title} | Khakhra Parampara Blog`,
     description:
-      article.excerpt?.replace(/<[^>]*>/g, "") ||
+      article.excerpt ||
       "Read the latest updates from Annapurna Khakhra.",
     alternates: {
       canonical: `/blog/${blogHandle}/${handle}`,
